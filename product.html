@@ -199,28 +199,77 @@
         const companyName = urlParams.get('company');
 
         // Exibe o nome do aparelho
-        document.getElementById('device-name').textContent = deviceName;
+        document.getElementById('device-name').textContent = deviceName || '';
 
         // Exibe o logotipo da empresa
         const logoPath = `assets/logos/${companyName}.png`;
-        document.getElementById('company-logo').src = logoPath;
+        const companyLogo = document.getElementById('company-logo');
+        companyLogo.src = logoPath;
 
-        // Constrói o caminho da imagem do aparelho
-        const imageName = deviceName.replace(/\s+/g, '_').toLowerCase();
-        const imagePath = `assets/images_product/${imageName}.jpg`;
+        // === IMAGEM DO APARELHO (case-insensitive via fallback de tentativas) ===
         const deviceImage = document.getElementById('device-image');
-        deviceImage.src = imagePath;
+        const errorElement = document.getElementById('image-error');
 
-        // Tratamento para erro de imagem do aparelho
-        deviceImage.onerror = function() {
-            this.alt = 'Imagem não encontrada';
-            this.src = 'assets/images_product/placeholder.jpg'; // Usa placeholder
-            const errorElement = document.getElementById('image-error');
-            errorElement.textContent = `Imagem '${imageName}.jpg' não encontrada.`;
-            errorElement.style.display = 'block'; // Mostra a mensagem de erro
+        function toTitleCaseUnderscore(str) {
+            // 2WIN -> 2Win, EVO_8E -> Evo_8e (mas ainda tentamos o original e UPPER também)
+            return str
+                .toLowerCase()
+                .replace(/(^|_)([a-z0-9])/g, (m, p1, p2) => p1 + p2.toUpperCase());
+        }
+
+        // base "cru" (sem forçar lower)
+        const baseRaw = (deviceName || '').trim().replace(/\s+/g, '_');
+
+        // variações de caixa mais prováveis
+        const baseVariants = Array.from(new Set([
+            baseRaw,
+            baseRaw.toLowerCase(),
+            baseRaw.toUpperCase(),
+            toTitleCaseUnderscore(baseRaw),
+        ])).filter(Boolean);
+
+        // extensões comuns (mantém jpg primeiro)
+        const exts = ['.jpg', '.jpeg', '.png', '.JPG', '.JPEG', '.PNG'];
+
+        // lista final de tentativas
+        const candidates = [];
+        for (const b of baseVariants) {
+            for (const e of exts) {
+                candidates.push(`assets/images_product/${b}${e}`);
+            }
+        }
+
+        let tryIndex = 0;
+
+        function tryNextImage() {
+            if (tryIndex >= candidates.length) {
+                // Falhou tudo: placeholder + mensagem
+                deviceImage.alt = 'Imagem não encontrada';
+                deviceImage.src = 'assets/images_product/placeholder.jpg';
+                errorElement.textContent = `Imagem do aparelho não encontrada. Tentativas: ${baseVariants.join(' / ')} (.jpg/.jpeg/.png)`;
+                errorElement.style.display = 'block';
+                return;
+            }
+
+            const src = candidates[tryIndex++];
+            deviceImage.src = src;
+        }
+
+        // Se carregar, limpa erro
+        deviceImage.onload = function () {
+            errorElement.style.display = 'none';
+            errorElement.textContent = '';
         };
 
-        // Carrega os dados do produto de um arquivo JSON
+        // Se falhar, tenta próxima variação
+        deviceImage.onerror = function () {
+            tryNextImage();
+        };
+
+        // dispara a primeira tentativa
+        tryNextImage();
+
+        // === DADOS DO PRODUTO (JSON) ===
         fetch('assets/data/products.json')
             .then(response => response.json())
             .then(data => {
@@ -253,7 +302,7 @@
             });
 
         // Tratamento para erro de logotipo da empresa
-        document.getElementById('company-logo').onerror = function() {
+        companyLogo.onerror = function() {
             this.alt = 'Logotipo não encontrado';
             this.style.display = 'none';
         };
