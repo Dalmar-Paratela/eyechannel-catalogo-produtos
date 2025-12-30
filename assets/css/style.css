@@ -6,9 +6,12 @@
 
 @font-face {
     font-family: 'Opinion Pro ExtraCondensed Light';
-    src: url('../fonts/Mint Type - Opinion Pro ExtraCondensed Light.ttf') format('truetype');
+    src:
+        url('../fonts/Mint%20Type%20-%20Opinion%20Pro%20ExtraCondensed%20Light.ttf') format('truetype'),
+        url('../fonts/Mint%20Type%20-%20Opinion%20Pro%20ExtraCondensed%20Light.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 body {
@@ -395,6 +398,21 @@ footer p {
     max-width: 28ch;
     white-space: normal;
     text-wrap: balance;
+  }
+
+/* Título principal */
+.title {
+  font-family: 'Opinion Pro ExtraCondensed Light', sans-serif;
+  line-height: 1;
+  }
+
+/* No mobile, não deixa quebrar e ajusta o tamanho automaticamente */
+@media (max-width: 430px){
+  .title{
+    white-space: nowrap;  /* força 1 linha */
+    font-size: 8.2vw;     /* ajusta para caber no iPhone */
+    display: inline-block;
+    }
   }
 }
 
