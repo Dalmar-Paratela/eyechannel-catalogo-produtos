@@ -6,6 +6,5 @@ Prévia do Catálogo de Produtos do Eye Channel para validação.
 Após ativar o GitHub Pages, o site ficará disponível em um link público (Settings → Pages).
 
 ## Observações
-- Versão focada em navegação por empresas e busca por empresa/tipo/produto.
-- Os manuais em PDF ficam em `assets/manual/`.
-
+- Navegação por empresas e busca por empresa/tipo/produto.
+- Manuais em PDF em `assets/manual/`.
