@@ -1,0 +1,1145 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo Eye Channel</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <link rel="stylesheet" href="assets/css/search.css">
+</head>
+<body>
+    <nav>
+        <div class="container">
+            <ul>
+                <li>
+                    <a href="https://eyechannel.com.br">
+                        <img class="logo-ec-header" src="https://eyechannel.com.br/wp-content/uploads/2024/03/Logo-Eyechannel.png" alt="Logo Eye Channel">
+                    </a>
+                </li>
+                <li><a href="https://eyechannel.com.br/category/oftalmologia/">Notícias</a></li>
+                <li><a href="https://eyechannel.com.br/em-breve/">Loja</a></li>
+                <li><a href="https://eyechannel.com.br/classificados/">Classificados</a></li>
+                <li><a href="https://eyechannel.com.br/category/podcast/">Podcast</a></li>
+                <li><a href="https://eyechannel.com.br/agenda/">Agenda</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+            <h1>
+                <img src="assets/images_design/capa.jpg" alt="Capa do Catálogo" class="capa-img">
+                <div class="title-container">
+                    <span class="title">CATÁLOGO DE PRODUTOS</span>
+                    <span class="subtitle">Encontrados em disponibilidade no mercado brasileiro em geral.</span>
+                </div>
+            </h1>
+
+
+<!-- ====== BUSCA (autocomplete) ====== -->
+<div class="catalog-search" id="catalogSearch">
+    <div class="search-row">
+        <input
+            id="catalogSearchInput"
+            type="search"
+            placeholder="Buscar empresa, tipo de aparelho ou produto..."
+            autocomplete="off"
+            aria-label="Buscar no Catálogo de Produtos"
+        />
+        <button id="catalogSearchBtn" type="button" aria-label="Pesquisar">🔍</button>
+    </div>
+
+    <ul id="catalogSearchSuggestions" class="search-suggestions" role="listbox" aria-label="Sugestões"></ul>
+
+    <div id="catalogSearchResults" class="search-results" hidden></div>
+</div>
+
+            <!-- ÚNICA LISTA DE LOGOS (em ordem alfabética) -->
+            <ul class="logos-menu">
+                <!-- Adaptica -->
+                <li>
+                    <img src="assets/logos/adaptica.png" alt="Adaptica Logo" class="adaptica-logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Auto Refrator Portátil</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">2WIN</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- CenterVue -->
+                <li>
+                    <img src="assets/logos/centervue.png" alt="CenterVue Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Retinógrafo</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">Eidon</a></li>
+                                <li><a href="javascript:void(0)">Eidon AF</a></li>
+                                <li><a href="javascript:void(0)">Eidon FA</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- DIOPSYS -->
+                <li>
+                    <img src="assets/logos/diopsys (1).png" alt="Diopsys Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Eletrofisiologia</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">Diopsys Nova</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- DORC -->
+                <li>
+                    <img src="assets/logos/dorc.png" alt="DORC Logo" class="logo-small">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Faco / Vitreófago</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">EVA</a></li>
+                                <li><a href="javascript:void(0)">EVA Nexus</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Haag-Streit -->
+                <li>
+                    <img src="assets/logos/haag-streit.png" alt="Haag-Streit Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Biômetro</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">Eyestar-900</a></li>
+                                <li><a href="javascript:void(0)">Lenstar-APS Pro</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Lâmpada de Fenda</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">BI-900</a></li>
+                                <li><a href="javascript:void(0)">BP-900</a></li>
+                                <li><a href="javascript:void(0)">BQ-900</a></li>
+                                <li><a href="javascript:void(0)">BX-900</a></li>
+                            </ul>
+                        <li>
+                            <a href="javascript:void(0)">Perímetro</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">Octopus-600</a></li>
+                                <li><a href="javascript:void(0)">Octopus-900</a></li>
+                            </ul>
+                        <li>
+                            <a href="javascript:void(0)">Tonômetro</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">AT-900</a></li>
+                            </ul>
+                        </li>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Huvitz -->
+                <li>
+                    <img src="assets/logos/huvitz.png" alt="Huvitz Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Auto Refrator</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">HRK-1</a></li>
+                                <li><a href="javascript:void(0)">HTR-1A</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">OCT + Retinógrafo</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">HOCT-1_1F</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Refrator Digital</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">HDR-7000</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Retinógrafo</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">HFC-1</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Tonômetro</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">HNT-1_1P</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- iCare -->
+                <li>
+                    <img src="assets/logos/icare.png" alt="iCare Logo" class="logo-small">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Tonômetro</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">IC-100</a></li>
+                                <li><a href="javascript:void(0)">IC-200</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Perímetro + Retinógrafo</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">Compass</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Retinógrafo</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">DRS Plus</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Innolcon -->
+                <li>
+                    <img src="assets/logos/innolcon.png" alt="Innolcon Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Facoemulsificador</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">Rosewood</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Intalight -->
+                <li>
+                    <img src="assets/logos/intalight.png" alt="Intalight Logo" class="logo-small">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">OCT</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">Dream OCT</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Keeler -->
+                <li>
+                    <img src="assets/logos/keeler.png" alt="Keeler Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Lâmpada de Fenda</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">PSL CLASSIC</a></li>
+                                <li><a href="javascript:void(0)">SYMPHONY</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Oftalmoscópio Indireto (OBI)</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">ALL PUPIL</a></li>
+                                <li><a href="javascript:void(0)">VANTAGE PLUS</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Tonômetro</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">Tonômetro de Aplanação KAT</a></li>
+                                <li><a href="javascript:void(0)">Tonômetro Sem Contato Pulsair</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Ultrassom</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">4SIGHT</a></li>
+                                <li><a href="javascript:void(0)">B-SCAN PLUS</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Konan -->
+                <li>
+                    <img src="assets/logos/konan.png" alt="Konan Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Microscópio Especular</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">CellCheck-20</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Lightmed -->
+                <li>
+                    <img src="assets/logos/lightmed.png" alt="Lightmed Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Laser para Glaucoma</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">DEUX</a></li>
+                                <li><a href="javascript:void(0)">LIGHTLAS 810</a></li>
+                                <li><a href="javascript:void(0)">SLT SELECTOR</a></li>
+                                <li><a href="javascript:void(0)">YAG L PULSA 9000</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Laser para Retina</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">LIGHTLAS 532</a></li>
+                                <li><a href="javascript:void(0)">LIGHTLAS 577</a></li>
+                                <li><a href="javascript:void(0)">LIGHTLAS 810</a></li>
+                                <li><a href="javascript:void(0)">TRUSCAN PRO</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Lumithera -->
+                <li>
+                    <img src="assets/logos/lumithera.png" alt="Lumithera Logo" class="lumithera-logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Fotobiomodulação</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">VALEDA</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Luxvision -->
+                <li>
+                    <img src="assets/logos/luxvision.png" alt="Luxvision Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Auto Refrator</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">LRK-7000</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Meridian -->
+                <li>
+                    <img src="assets/logos/meridian.png" alt="Meridian Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Laser</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">MRQ YAG</a></li>
+                                <li><a href="javascript:void(0)">MRQ SLT</a></li>
+                                <li><a href="javascript:void(0)">810 Shortpulse</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Moria -->
+                <li>
+                    <img src="assets/logos/moria.png" alt="Moria Logo" class="logo-small">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Microcerátomo</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">Evolution-3E</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Olleyes -->
+                <li>
+                    <img src="assets/logos/olleyes.png" alt="Olleyes Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Perímetro</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">VisuAll - Modelo S</a></li>
+                                <li><a href="javascript:void(0)">VisuAll - Modelo ETS</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Optovue -->
+                <li>
+                    <img src="assets/logos/optovue.png" alt="Optovue Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">OCT</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">Solix-FullRange</a></li>
+                                <li><a href="javascript:void(0)">iVue80</a></li>
+                                <li><a href="javascript:void(0)">iScan80</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Retinógrafo</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">Icam</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- SBM Sistemi -->
+                <li>
+                    <img src="assets/logos/sbmsistemi.png" alt="SBM Sistemi Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">p/ Olho Seco</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">Idra</a></li>
+                                <li><a href="javascript:void(0)">Activa</a></li>
+                                <li><a href="javascript:void(0)">OS-1000</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Tomey -->
+                <li>
+                    <img src="assets/logos/tomey.png" alt="Tomey Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Aparelho Multifuncional</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">MR-6000</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Biômetro com Paquímetro</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">AL-4000</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Biômetro Óptico</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">OA-2000</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Microscópio Especular</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">EM-4000</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">OCT de Segmento Anterior</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">CASIA2</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Topógrafo</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">TMS-4N</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Ultrassom</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">UD-800</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Topcon -->
+                <li>
+                    <img src="assets/logos/topcon.png" alt="Topcon Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Aberrômetro + Auto Refrator + Topógrafo</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">KR-1W</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Analisador de Lentes</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">SOLOS</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Auto Lensômetro</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">CL-300</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Auto Refrator</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">KR-1</a></li>
+                                <li><a href="javascript:void(0)">KR-800</a></li>
+                                <li><a href="javascript:void(0)">KR-800PA</a></li>
+                                <li><a href="javascript:void(0)">TRK-2P</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Auto Tonômetro</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">CT-1P</a></li>
+                                <li><a href="javascript:void(0)">CT-800</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Biômetro Óptico + Análise de Córnea + Aberrometria</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">ALADDIN</a></li>
+                                <li><a href="javascript:void(0)">CA-800</a></li>
+                                <li><a href="javascript:void(0)">MYAH</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Lâmpada de Fenda</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">SL-2G</a></li>
+                                <li><a href="javascript:void(0)">SL-D301</a></li>
+                                <li><a href="javascript:void(0)">SL-D4</a></li>
+                                <li><a href="javascript:void(0)">SL-D701</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Microscópio cirúrgico</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">OMS-800</a></li>
+                                <li><a href="javascript:void(0)">OMS-90</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Microscópio Especular</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">SP-1P</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">OCT</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">MAESTRO 2</a></li>
+                                <li><a href="javascript:void(0)">TRITON PLUS</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Refrator de Greens</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">CV-5000</a></li>
+                                <li><a href="javascript:void(0)">VT-10</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Retinógrafo</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">TRC-50DXIA</a></li>
+                                <li><a href="javascript:void(0)">TRC-NW400</a></li>
+                                <li><a href="javascript:void(0)">TRC-NW8F</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Visionix -->
+                <li>
+                    <img src="assets/logos/visionix.png" alt="Visionix Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">OCT</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">Solix-FullRange</a></li>
+                                <li><a href="javascript:void(0)">iVue80</a></li>
+                                <li><a href="javascript:void(0)">iScan80</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Volk -->
+                <li>
+                    <img src="assets/logos/volk.png" alt="Volk Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Retinógrafo não Midriático Portátil</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">PICTOR PRESTIGE</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Retinógrafo Midriático Portátil</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">VISTA VIEW</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Sistema Cirúrgico de não contato p/ Vitrectomia</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">MERLIN</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- YEASN -->
+                <li>
+                    <img src="assets/logos/yeasn.png" alt="YEASN Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Lensômetro</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">CCQ-1100</a></li>
+                                <li><a href="javascript:void(0)">CCQ-500</a></li>
+                                <li><a href="javascript:void(0)">CCQ-800</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)">Refrator de Greens</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">SLY-100</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Ziemer -->
+                <li>
+                    <img src="assets/logos/ziemer.png" alt="Ziemer Logo">
+                    <ul class="dropdown">
+                        <li>
+                            <a href="javascript:void(0)">Laser</a>
+                            <ul class="sub-dropdown">
+                                <li><a href="javascript:void(0)">Femto-Z8 Neo</a></li>
+                                <li><a href="javascript:void(0)">Femto-LDV-Z6</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>© 2025 Eye Channel. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <script>
+    // Controle do dropdown (nível 1)
+    document.querySelectorAll('.logos-menu li img').forEach(logo => {
+
+        let lastPointerTs = 0;
+
+        const toggleCompanyDropdown = (e) => {
+            // protege contra "duplo disparo" (pointerup + click)
+            const now = Date.now();
+            if (e.type === 'click' && (now - lastPointerTs) < 450) {
+                e.stopPropagation();
+                return;
+            }
+
+            e.stopPropagation();
+
+            // Evita depender de nextElementSibling (mais robusto)
+            const li = logo.closest('li');
+            if (!li) return;
+
+            const dropdown = li.querySelector('ul.dropdown');
+            if (!dropdown) return;
+
+            const isActive = dropdown.classList.contains('active');
+
+            document.querySelectorAll('.dropdown, .sub-dropdown').forEach(d => d.classList.remove('active'));
+            document.querySelectorAll('.dropdown li a').forEach(a => a.classList.remove('active-sub'));
+
+            if (!isActive) {
+                dropdown.classList.add('active');
+            }
+        };
+
+        // Pointer events (Android/Chrome): mais confiável no mobile
+        logo.addEventListener('pointerup', (e) => {
+            lastPointerTs = Date.now();
+            toggleCompanyDropdown(e);
+        });
+
+        // Fallback
+        logo.addEventListener('click', toggleCompanyDropdown);
+    });
+// Controle do sub-dropdown (nível 2) - COM AJUSTE INTELIGENTE
+    document.querySelectorAll('.dropdown > li > a').forEach(item => {
+        item.addEventListener('click', (e) => {
+            const sub = item.nextElementSibling;
+            if (sub && sub.classList.contains('sub-dropdown')) {
+                e.preventDefault();
+                e.stopPropagation();
+                const isActive = sub.classList.contains('active');
+
+                // Fecha todos
+                document.querySelectorAll('.sub-dropdown').forEach(d => {
+                    d.classList.remove('active', 'flip-left');
+                });
+                document.querySelectorAll('.dropdown li a').forEach(a => a.classList.remove('active-sub'));
+
+                if (!isActive) {
+                    sub.classList.add('active');
+                    item.classList.add('active-sub');
+
+                    // Ajuste inteligente: abre à esquerda se necessário
+                    setTimeout(() => {
+                        const rect = sub.getBoundingClientRect();
+                        const viewportWidth = window.innerWidth;
+
+                        if (rect.right > viewportWidth - 10) {
+                            sub.classList.add('flip-left');
+                        }
+                    }, 10);
+                }
+            }
+        });
+    });
+
+    // Fecha ao clicar fora
+    document.addEventListener('click', () => {
+        document.querySelectorAll('.dropdown, .sub-dropdown').forEach(d => d.classList.remove('active'));
+        document.querySelectorAll('.dropdown li a').forEach(a => a.classList.remove('active-sub'));
+    });
+
+    // Navegação para product.html
+    document.querySelectorAll('.sub-dropdown li a').forEach(link => {
+        link.addEventListener('click', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+
+            const device = link.textContent.trim();
+            const companyLi = link.closest('.logos-menu > li');
+            if (!companyLi) return;
+
+            const companyImg = companyLi.querySelector('img');
+            if (!companyImg) return;
+
+            const src = companyImg.getAttribute('src') || '';
+            const company = src.split('/').pop().split('.')[0];
+
+            window.location.href = `product.html?device=${encodeURIComponent(device)}&company=${encodeURIComponent(company)}`;
+        });
+    });
+    
+
+// ====== Catálogo: Busca (autocomplete + Enter abre o produto) ======
+(function () {
+    const input = document.getElementById('catalogSearchInput');
+    const btn = document.getElementById('catalogSearchBtn');
+    const sug = document.getElementById('catalogSearchSuggestions');
+    const results = document.getElementById('catalogSearchResults');
+
+    if (!input || !btn || !sug || !results) return;
+
+    const MIN_CHARS = 2;
+    const MAX_SUGGESTIONS = 12;
+
+    // Normaliza: sem acento, sem diferença de maiúscula/minúscula
+    function norm(str) {
+        return (str || '')
+            .toString()
+            .normalize('NFD')
+            .replace(/[\u0300-\u036f]/g, '')
+            .toLowerCase()
+            .replace(/[^a-z0-9\s]/g, ' ')
+            .replace(/\s+/g, ' ')
+            .trim();
+    }
+
+    function fileBaseName(path) {
+        const last = (path || '').split('/').pop() || '';
+        return last.replace(/\.[a-z0-9]+$/i, '');
+    }
+
+    // Indexa o catálogo lendo o próprio DOM (empresa > tipo > aparelho)
+    function buildIndexFromDom() {
+        const companyLis = Array.from(document.querySelectorAll('.logos-menu > li'));
+        const deviceEntries = [];
+        const companyEntries = [];
+        const typeEntries = [];
+        const companyToDevices = new Map();
+        const typeToDevices = new Map();
+
+        for (const li of companyLis) {
+            const img = li.querySelector(':scope > img');
+            const dropdown = li.querySelector(':scope > ul.dropdown');
+            if (!img || !dropdown) continue;
+
+            const companySlug = fileBaseName(img.getAttribute('src') || '');
+            const companyName = (img.getAttribute('alt') || companySlug).replace(/\s+logo$/i, '').trim();
+
+            companyEntries.push({
+                kind: 'company',
+                label: companyName,
+                companyName,
+                companySlug,
+                n: norm(companyName)
+            });
+
+            const typeLis = Array.from(dropdown.querySelectorAll(':scope > li'));
+            for (const typeLi of typeLis) {
+                const typeA = typeLi.querySelector(':scope > a');
+                const sub = typeLi.querySelector(':scope > ul.sub-dropdown');
+                const typeName = (typeA ? typeA.textContent : '').trim();
+                if (!typeName || !sub) continue;
+
+                typeEntries.push({
+                    kind: 'type',
+                    label: typeName,
+                    typeName,
+                    n: norm(typeName)
+                });
+
+                const deviceAs = Array.from(sub.querySelectorAll('li > a'));
+                for (const a of deviceAs) {
+                    const deviceName = (a.textContent || '').trim();
+                    if (!deviceName) continue;
+
+                    const entry = {
+                        kind: 'device',
+                        label: deviceName,
+                        deviceName,
+                        companyName,
+                        companySlug,
+                        typeName,
+                        n: norm([deviceName, companyName, typeName].join(' '))
+                    };
+
+                    deviceEntries.push(entry);
+
+                    if (!companyToDevices.has(companySlug)) companyToDevices.set(companySlug, []);
+                    companyToDevices.get(companySlug).push(entry);
+
+                    const tKey = norm(typeName);
+                    if (!typeToDevices.has(tKey)) typeToDevices.set(tKey, []);
+                    typeToDevices.get(tKey).push(entry);
+                }
+            }
+        }
+
+        // Remove duplicatas de types (pelo norm)
+        const seenTypes = new Set();
+        const uniqueTypeEntries = [];
+        for (const t of typeEntries) {
+            if (seenTypes.has(t.n)) continue;
+            seenTypes.add(t.n);
+            uniqueTypeEntries.push(t);
+        }
+
+        return {
+            deviceEntries,
+            companyEntries,
+            typeEntries: uniqueTypeEntries,
+            companyToDevices,
+            typeToDevices
+        };
+    }
+
+    const IDX = buildIndexFromDom();
+    const ALL = [...IDX.deviceEntries, ...IDX.companyEntries, ...IDX.typeEntries];
+
+    // products.json vive em assets/data (não é obrigatório para a busca funcionar)
+    fetch('assets/data/products.json').catch(() => {});
+
+    function tokensMatch(haystackNorm, qNorm) {
+        const tokens = qNorm.split(' ').filter(Boolean);
+        if (tokens.length === 0) return false;
+        return tokens.every(t => haystackNorm.includes(t));
+    }
+
+    function scoreEntry(entry, qNorm) {
+        let score = 0;
+        if (entry.kind === 'device') score += 30;
+        if (entry.kind === 'company') score += 20;
+        if (entry.kind === 'type') score += 10;
+
+        const labelN = norm(entry.label);
+        if (labelN.startsWith(qNorm)) score += 12;
+        if (entry.n.startsWith(qNorm)) score += 8;
+        if (entry.n.includes(qNorm)) score += 4;
+        return score;
+    }
+
+    function findMatches(qRaw) {
+        const qNorm = norm(qRaw);
+        if (qNorm.length < MIN_CHARS) return { qNorm, matches: [] };
+
+        const matches = ALL
+            .filter(e => tokensMatch(e.n || norm(e.label), qNorm) || tokensMatch(norm(e.label), qNorm))
+            .map(e => ({ e, s: scoreEntry(e, qNorm) }))
+            .sort((a, b) => b.s - a.s || a.e.label.localeCompare(b.e.label, 'pt-BR'))
+            .slice(0, MAX_SUGGESTIONS)
+            .map(x => x.e);
+
+        return { qNorm, matches };
+    }
+
+    let activeIndex = -1;
+    let lastMatches = [];
+
+    function hideSuggestions() {
+        sug.classList.remove('show');
+        sug.innerHTML = '';
+        activeIndex = -1;
+    }
+
+    function showSuggestions(items) {
+        sug.innerHTML = '';
+        activeIndex = -1;
+
+        if (!items.length) {
+            hideSuggestions();
+            return;
+        }
+
+        for (const item of items) {
+            const li = document.createElement('li');
+            const b = document.createElement('button');
+            b.type = 'button';
+            b.setAttribute('role', 'option');
+
+            const title = document.createElement('div');
+            title.className = 's-title';
+            title.textContent = item.label;
+
+            const meta = document.createElement('div');
+            meta.className = 's-meta';
+
+            if (item.kind === 'device') {
+                meta.textContent = `${item.companyName} • ${item.typeName}`;
+            } else if (item.kind === 'company') {
+                meta.textContent = 'Empresa';
+            } else {
+                meta.textContent = 'Tipo de aparelho';
+            }
+
+            const kind = document.createElement('span');
+            kind.className = 's-kind';
+            kind.textContent = item.kind === 'device' ? 'Produto' : (item.kind === 'company' ? 'Empresa' : 'Tipo');
+
+            const right = document.createElement('div');
+            right.appendChild(kind);
+
+            b.appendChild(title);
+            b.appendChild(right);
+            b.appendChild(meta);
+
+            b.style.gridTemplateColumns = '1fr auto';
+            b.style.gridAutoRows = 'auto';
+            title.style.gridColumn = '1 / 2';
+            right.style.gridColumn = '2 / 3';
+            meta.style.gridColumn = '1 / 3';
+
+            b.addEventListener('click', (ev) => {
+                ev.preventDefault();
+                ev.stopPropagation();
+                selectItem(item);
+            });
+
+            li.appendChild(b);
+            sug.appendChild(li);
+        }
+
+        sug.classList.add('show');
+    }
+
+    function openDevice(entry) {
+        const url = `product.html?device=${encodeURIComponent(entry.deviceName)}&company=${encodeURIComponent(entry.companySlug)}`;
+        window.location.href = url;
+    }
+
+    function showResults(title, devices) {
+        results.hidden = false;
+
+        const h = document.createElement('h3');
+        h.textContent = title;
+
+        const grid = document.createElement('div');
+        grid.className = 'results-grid';
+
+        for (const d of devices) {
+            const a = document.createElement('a');
+            a.href = `product.html?device=${encodeURIComponent(d.deviceName)}&company=${encodeURIComponent(d.companySlug)}`;
+
+            const t = document.createElement('div');
+            t.textContent = d.deviceName;
+
+            const m = document.createElement('div');
+            m.className = 'r-meta';
+            m.textContent = `${d.companyName} • ${d.typeName}`;
+
+            a.appendChild(t);
+            a.appendChild(m);
+            grid.appendChild(a);
+        }
+
+        results.innerHTML = '';
+        results.appendChild(h);
+        results.appendChild(grid);
+    }
+
+    function hideResults() {
+        results.hidden = true;
+        results.innerHTML = '';
+    }
+
+    function scrollToCompany(companySlug) {
+        const companyLi = Array.from(document.querySelectorAll('.logos-menu > li')).find(li => {
+            const img = li.querySelector(':scope > img');
+            if (!img) return false;
+            return fileBaseName(img.getAttribute('src') || '') === companySlug;
+        });
+        if (!companyLi) return;
+
+        companyLi.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        const img = companyLi.querySelector(':scope > img');
+        if (img) img.click();
+    }
+
+    function selectItem(item) {
+        hideSuggestions();
+
+        if (item.kind === 'device') {
+            hideResults();
+            openDevice(item);
+            return;
+        }
+
+        if (item.kind === 'company') {
+            const devices = (IDX.companyToDevices.get(item.companySlug) || []).slice()
+                .sort((a, b) => a.deviceName.localeCompare(b.deviceName, 'pt-BR'));
+            showResults(`Produtos — ${item.companyName}`, devices);
+            scrollToCompany(item.companySlug);
+            return;
+        }
+
+        if (item.kind === 'type') {
+            const devices = (IDX.typeToDevices.get(item.n) || []).slice()
+                .sort((a, b) => a.companyName.localeCompare(b.companyName, 'pt-BR') || a.deviceName.localeCompare(b.deviceName, 'pt-BR'));
+            showResults(`Resultados — ${item.typeName}`, devices);
+            return;
+        }
+    }
+
+    function setActive(index) {
+        const buttons = Array.from(sug.querySelectorAll('button'));
+        buttons.forEach(b => b.classList.remove('active'));
+        if (index < 0 || index >= buttons.length) {
+            activeIndex = -1;
+            return;
+        }
+        activeIndex = index;
+        buttons[index].classList.add('active');
+        buttons[index].scrollIntoView({ block: 'nearest' });
+    }
+
+    function pickActiveOrRunQuery() {
+        if (activeIndex >= 0 && lastMatches[activeIndex]) {
+            selectItem(lastMatches[activeIndex]);
+            return;
+        }
+
+        const q = input.value || '';
+        const { matches } = findMatches(q);
+        const deviceMatches = matches.filter(m => m.kind === 'device');
+
+        if (deviceMatches.length === 1) {
+            hideResults();
+            openDevice(deviceMatches[0]);
+            return;
+        }
+
+        if (deviceMatches.length > 1) {
+            showResults(`Resultados — "${q.trim()}"`, deviceMatches);
+            hideSuggestions();
+            return;
+        }
+
+        if (matches.length) selectItem(matches[0]);
+    }
+
+    function onInputChanged() {
+        hideResults();
+        const q = input.value || '';
+        const { matches } = findMatches(q);
+        lastMatches = matches;
+        showSuggestions(matches);
+    }
+
+    input.addEventListener('input', onInputChanged);
+
+    // Desktop
+    input.addEventListener('keydown', (e) => {
+        if (!sug.classList.contains('show')) {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                pickActiveOrRunQuery();
+            }
+            return;
+        }
+
+        if (e.key === 'ArrowDown') {
+            e.preventDefault();
+            setActive(activeIndex + 1);
+        } else if (e.key === 'ArrowUp') {
+            e.preventDefault();
+            setActive(activeIndex - 1);
+        } else if (e.key === 'Escape') {
+            e.preventDefault();
+            hideSuggestions();
+        } else if (e.key === 'Enter') {
+            e.preventDefault();
+            pickActiveOrRunQuery();
+        }
+    });
+
+    // Mobile: teclados virtuais nem sempre disparam keydown de forma confiável
+    input.addEventListener('keyup', (e) => {
+        if (e.key === 'Enter') {
+            e.preventDefault();
+            pickActiveOrRunQuery();
+        }
+    });
+
+    input.addEventListener('search', () => {
+        pickActiveOrRunQuery();
+    });
+
+    btn.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        pickActiveOrRunQuery();
+    });
+
+    // Não deixa clique dentro da busca “fechar” sugestões/dropdowns por propagação
+    const wrap = document.getElementById('catalogSearch');
+    if (wrap) wrap.addEventListener('click', (e) => e.stopPropagation());
+
+    // Fecha sugestões ao clicar fora
+    document.addEventListener('click', () => {
+        hideSuggestions();
+    });
+})();
+    </script>
+</body>
+</html>

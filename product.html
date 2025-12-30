@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalhes do Produto - Eye Channel</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        @font-face {
+            font-family: 'Opinion Pro ExtraCondensed Light';
+            src: url('assets/fonts/Mint Type - Opinion Pro ExtraCondensed Light.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        body {
+            background-color: #1a1a1a;
+            color: #ffffff;
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem 0;
+            flex-grow: 1;
+            text-align: center;
+        }
+
+        .company-logo {
+            max-width: 128px;
+            height: auto;
+            margin-bottom: 0.5rem;
+        }
+
+        h1 {
+            font-size: 3rem;
+            color: #00ffcc;
+            font-family: 'Opinion Pro ExtraCondensed Light', sans-serif;
+            margin-bottom: 2rem;
+        }
+
+        .product-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .product-image {
+            max-width: 400px;
+            max-height: 400px;
+            height: auto;
+            width: auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .product-image-error {
+            color: #ff6666;
+            font-size: 1.1rem;
+            margin-top: 0.5rem;
+        }
+
+        .product-text {
+            flex: 1;
+            text-align: left;
+            font-size: 1.1rem;
+        }
+
+        .product-manual {
+            flex: 0 0 auto;
+            text-align: right;
+        }
+
+        .product-manual a {
+            color: #00ffcc;
+            text-decoration: none;
+            font-size: 1.2rem;
+            font-family: 'Opinion Pro ExtraCondensed Light', sans-serif;
+            padding: 0.5rem 1rem;
+            background-color: #333;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .product-manual a:hover {
+            background-color: #444;
+        }
+
+        .back-link {
+            position: fixed;
+            top: 1rem;
+            left: 1rem;
+            color: #ffffff;
+            text-decoration: none;
+            font-size: 1.2rem;
+            font-family: 'Opinion Pro ExtraCondensed Light', sans-serif;
+            padding: 0.5rem 1rem;
+            background-color: #333;
+            border-radius: 5px;
+            transition: color 0.3s ease, background-color 0.3s ease;
+            z-index: 100;
+        }
+
+        .back-link:hover {
+            color: #00ffcc;
+            background-color: #444;
+        }
+
+        footer {
+            background-color: #333;
+            padding: 1rem 0;
+            text-align: center;
+            box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        footer p {
+            font-size: 0.9rem;
+            color: #cccccc;
+        }
+
+        @media (max-width: 768px) {
+            .company-logo {
+                max-width: 85px;
+                margin-bottom: 0.5rem;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            .container {
+                padding: 1rem 0;
+            }
+
+            .back-link {
+                font-size: 1rem;
+                padding: 0.3rem 0.8rem;
+            }
+
+            .product-image {
+                max-width: 300px;
+                max-height: 300px;
+            }
+
+            .product-content {
+                flex-direction: column;
+                align-items: center;
+                gap: 1rem;
+            }
+
+            .product-text {
+                text-align: center;
+            }
+
+            .product-manual {
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <a href="index.html" class="back-link">Voltar</a>
+    <div class="container">
+        <img id="company-logo" class="company-logo" alt="Logo da empresa">
+        <h1 id="device-name"></h1>
+        <div class="product-content">
+            <div>
+                <img id="device-image" class="product-image" alt="Imagem do aparelho">
+                <p id="image-error" class="product-image-error" style="display: none;"></p>
+            </div>
+            <p id="product-text" class="product-text"></p>
+            <div id="product-manual" class="product-manual"></div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>© 2025 Eye Channel. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <script>
+        // Pega os parâmetros 'device' e 'company' da URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const deviceName = urlParams.get('device');
+        const companyName = urlParams.get('company');
+
+        // Exibe o nome do aparelho
+        document.getElementById('device-name').textContent = deviceName;
+
+        // Exibe o logotipo da empresa
+        const logoPath = `assets/logos/${companyName}.png`;
+        document.getElementById('company-logo').src = logoPath;
+
+        // Constrói o caminho da imagem do aparelho
+        const imageName = deviceName.replace(/\s+/g, '_').toLowerCase();
+        const imagePath = `assets/images_product/${imageName}.jpg`;
+        const deviceImage = document.getElementById('device-image');
+        deviceImage.src = imagePath;
+
+        // Tratamento para erro de imagem do aparelho
+        deviceImage.onerror = function() {
+            this.alt = 'Imagem não encontrada';
+            this.src = 'assets/images_product/placeholder.jpg'; // Usa placeholder
+            const errorElement = document.getElementById('image-error');
+            errorElement.textContent = `Imagem '${imageName}.jpg' não encontrada.`;
+            errorElement.style.display = 'block'; // Mostra a mensagem de erro
+        };
+
+        // Carrega os dados do produto de um arquivo JSON
+        fetch('assets/data/products.json')
+            .then(response => response.json())
+            .then(data => {
+                const product = data[deviceName];
+                const textElement = document.getElementById('product-text');
+                const manualElement = document.getElementById('product-manual');
+
+                // Texto do produto
+                if (product && product.text) {
+                    textElement.textContent = product.text;
+                } else {
+                    textElement.textContent = `Produto '${deviceName}' não encontrado em products.json.`;
+                }
+
+                // Link para o manual (se existir)
+                if (product && product.manual) {
+                    const manualLink = document.createElement('a');
+                    manualLink.href = product.manual;
+                    manualLink.textContent = 'Documentação';
+                    manualLink.target = '_blank';
+                    manualElement.appendChild(manualLink);
+                } else {
+                    manualElement.textContent = 'Manual não disponível.';
+                }
+            })
+            .catch(error => {
+                console.error('Erro ao carregar products.json:', error);
+                document.getElementById('product-text').textContent = `Erro ao carregar descrição. Produto '${deviceName}' não encontrado em products.json.`;
+                document.getElementById('product-manual').textContent = 'Manual não disponível.';
+            });
+
+        // Tratamento para erro de logotipo da empresa
+        document.getElementById('company-logo').onerror = function() {
+            this.alt = 'Logotipo não encontrado';
+            this.style.display = 'none';
+        };
+    </script>
+</body>
+</html>

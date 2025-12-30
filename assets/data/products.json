@@ -1,0 +1,474 @@
+{
+    "2WIN": {
+        "text": "2WIN é um celular e visor binocular que mede ambos os olhos ao mesmo tempo, em condições de visão da vida real. Ele incorpora as melhores e mais completas tecnologias para detectar totalmente erros de refração anormalidades oculares e problemas de visão. Ele mede na faixa de -15D a +15D para medição automática da resposta dinâmica das pupilas a estímulos de luz programáveis e centraliza com precisão as lentes oculares. 2WIN é capaz de detectar Miopia Hipermetropia Astigmatismo, e outros Fatores ambliogênicos. Além disso, fornecerá evidências de anomalias da visão que podem estar relacionadas à anisometropia, anisocoria, estrabismo, fórias.",
+        "manual": "assets/manual/2WIN.pdf"
+    },
+    "HRK-1": {
+        "text": "O HRK-1 da Huvitz é um Auto Refrator/Ceratômetro avançado, combinando precisão e facilidade de uso para diagnósticos oftalmológicos. As novas características que o diferenciam de seu predecessor são o sistema de Auto Tracking, a tela de 7 polegadas Touch Screen e o modo de iluminação. Com um novo conjunto óptico e iluminação de alta performance o HRK-1 é um equipamento inovador com alta precisão.A localização automática do centro dos olhos do paciente (movimentação vertical) facilitando a captura. Faz captura de imagens coloridas, podendo ser utilizado para verificação da adaptação de lente de contato com o auxílio do LED azul. Sua tela é sensível ao toque, colorida, com 7 polegadas, facilitando a visualização e captura. O novo conjunto óptico aumenta não somente a precisão mas também a velocidadede captura.",
+        "manual": "assets/manual/HRK-1.pdf"
+    },
+    "HTR-1A": {
+        "text":"Huvitz HTR-1A, ceratômetro e refratômetro automáticos, é otimizado para o cuidado da saúde ocular a fim de medir e diagnosticar com precisão. São 4 tipos de dispositivos de diagnóstico que são completados com o Sistema 4 em 1 em Design Compacto. Além disso, as funções de rastreamento e disparo automático completo proporcionam conveniência para o usuário. Pelo design e tamanho compacto, o HTR-1A é possível para poupar espaço aos utilizadores. Por possibilitar 4 medidas a partir de 1 dispositivo, os pacientes não precisam de se deslocar e também podem poupar o seu tempo. O HTR-1A suporta Full Auto Tracking & Shooting. Ao clicar num botão, segue automaticamente a medição dos pontos de pupila e calcula os dados exactos. Pelo próprio algoritmo de análise Wavefront da Huvitz & Micro Lens Array, fornece dados precisos e confiáveis da Refratometria. O usuário pode monitorar a cirurgia pré e pós refrativa (Aberração Esférica) e analisar dados de alta ordem a fim de personalizar a prescrição das lentes. A alta confiabilidade dos dados Kerato da Curvatura de Córnea pode ser adquirida através da minimização de erros de medição usando o Anel de Pneus de alta intensidade e fontes de luz LED de dois focos. Além disso, os dados REF são fornecidos com alta precisão, minimizando a intervenção de energia acomodativa. Pela função de captura de imagem, o usuário pode medir a distância Iris & Pupil até 14 mm. Além disso, a medição mínima da pupila é suportada até 2 mm. Zernike Map & Graph pode ser exibido em 2D e 3D para que os usuários possam facilmente entender dados esféricos, cilíndricos, de eixos e de aberrações de alta ordem.",
+        "manual": "assets/manual/HTR-1A.pdf"
+    },
+    "HOCT-1_1F": {
+        "text": "OCT tudo-em-um com câmara do fundo do olho, angiografia, biometria e topografia. Proporciona uma digitalização a alta velocidade e uma imagem de alta qualidade, utilizando a tecnologia ótica excecional da Huvitz e um software de imagem inovador. Mostra informações extensas, como a estrutura 3D da retina, a espessura e a separação da mácula, numa imagem vívida. Ao combinar a angiografia OCT, a câmara de fundo de olho a cores e o PC, pode gerar imagens de alta resolução, proporcionando funções polivalentes para o diagnóstico. Poupa tempo e espaço ao realizar uma vista frontal (Enface) de doenças oculares, tomografia, comparação cruzada e diagnóstico numa única execução. Os dados de teste do paciente podem ser analisados em qualquer lugar na Internet. Pode verificar e analisar todos os dados do HOCT através do navegador Web, como o Internet Explorer, Safari, Chrome, sem instalar software especial em separado. Fornece a estrutura patológica do paciente e dados relevantes e importantes num formato de fácil leitura e também pode imprimir o relatório no ecrã de análise. Os resultados da análise podem ser visualizados através de um navegador Web e impressos com diferentes tipos de relatórios. O módulo do segmento anterior permite a medição e análise da espessura da córnea, ângulo e imagem 3D. Ajuda os utilizadores a trabalhar de forma mais eficiente, adquirindo tanto a parte anterior como a posterior num único local. (Os conjuntos de lentes anteriores de 9 mm e 16 mm são opcionais)",
+        "manual": "assets/manual/HOCT-1_1F.pdf"
+    },
+    "HDR-7000": {
+        "text": "O Refrator Digital Huvitz HDR-7000 apresenta um design fino com um amplo ângulo de visão, permitindo maior precisão. Possui carregamento rápido e silencioso da lente, com lente dupla do cilindro transversal, oclusão automática e convergência automática. O Huvitz HDR-7000 permite que você realize exames mais precisos com vários testes de visão, incluindo 18 gráficos de teste de acuidade visual, 26 gráficos de teste de visão e até 35 gráficos de teste unitário definidos pelo usuário para suportar o processo de teste ocular mais avançado. Interface de tela sensível ao toque fácil de usar, discagem de jog e interruptores de tato fornecem controle perfeito em várias operações e o design destacável das peças frequentemente contaminadas (Forehead Rests, Face Shields e Lens Windows) ajuda a limpeza mais fácil e rápida.",
+        "manual": "assets/manual/HDR-7000.pdf"
+    },
+    "HFC-1": {
+        "text": "O HFC-1 possui rastreamento e disparo automatizados que permitem o ajuste dos modos de forma rápida e estável por conta própria, enquanto mede diferentes tamanhos de pupila. Sua Câmera de alta definição de 20 megapixels captura imagens com reduzido Motion Artifact e tem a capacidade de ampliar imagens para estudar detalhes finos. O novo HFC-1 inclui uma variedade de modos de imagem: azul, vermelho, vermelho-livre e cobalto que ajudam nos exames de Glaucoma, RNFL, Edema, Anormalidades Pigmentares e muito mais. Os provedores de cuidados com os olhos podem medir, analisar, diagnosticar e relatar tudo no local, com o seu conveniente ecrã táctil LCD de 12.1'' para navegar.",
+        "manual": "assets/manual/HFC-1.pdf"
+    },
+    "HNT-1_1P":{
+        "text": "Tonômetro Huvitz HNT-1/1P é um aparelho que combina tonômetro sem contato e paquímetro em um único equipamento e representa um novo padrão para medição de pressão intraocular: sopro suave, mais silencioso e inteligente com compensação de espessura da córnea. Possui capacidade de medir a espessura corneal com extremo rigor, avaliar o ângulo da câmara anterior e, desta forma, calcular o valor compensado de Pressão Intra-Ocular (PIO) do paciente com maior exatidão. A interface intuitiva, o ajuste automático da intensidade do sopro e a medição totalmente automática, formam uma combinação que permite uma medição mais confortável, rápida, fácil e precisa.",
+        "manual": "assets/manual/HNT-1_1P.pdf"
+    },
+    "Kits Retino-Oftalmo":{
+        "text": "O oftalmoscópio Specialist e o retinoscópio Professional streak são um item básico para qualquer especialista em oftalmologia. Esse conjunto oferece um retinoscópio e um oftalmoscópio de qualidade para o profissional oftalmológico em trânsito ou em clínica. Testemunho de décadas de sucesso e inovação, a linha de oftalmoscópios e retinoscópios da Keeler é uma ferramenta essencial para todos os especialistas em cuidados com os olhos. Sempre à mão, foram projetados para atender às suas diversas necessidades com recursos inovadores, a melhor óptica da categoria da Keeler e iluminação LED brilhante, tudo isso em um formato ergonômico para uma única mão. Simplesmente os dispositivos perfeitos para fazer sua avaliação inicial de forma rápida e precisa.",
+        "manual": "https://www.keelerglobal.com/product-category/handhelds/ophthalmic-diagnostic-sets/"
+    },
+    "PSL CLASSIC": {
+        "text": "O PSL Classic combina a renomada óptica da Keeler com uma construção robusta e portátil permitindo exames oftalmológicos abrangentes onde quer que seja necessário. Excelência oftalmológica através de óptica superior, uso versátil e portabilidade para qualquer lugar. Projetado e fabricado com a resistência para suportar os traumas diários do exigente ambiente oftalmológico, o PSL é leve, durável e robusto. Características: Chassi de alumínio usinado com precisão, óptica avançada, ampliação de 10x e 16x, iluminação controlável de máxima a zero, recursos de lâmpada de fenda grandes, usabilidade portátil, design elegante e contemporâneo, abertura quadrada de 1mm para avaliação de Uveíte, iluminação LED continuamente variável, alvos de fixação, experiência e qualidade de fabricação britânica.",
+        "manual": "assets/manual/PSL_CLASSIC.pdf"
+    },
+    "SYMPHONY":{
+        "text": "Com opções de magnificação de 3 ou 5 passos, filtro de barreira amarelo integrado e a exclusiva abertura quadrada de 1mm da Keeler para avaliação de uveíte, incluída como padrão, a série K combina desempenho óptico com recursos práticos. Este produto está disponível nos modelos a seguir e pode ser fornecido montado em mesa ou como conjunto de refração sem o tampo de mesa. a) Slit Lamp Symphony K 40H, Conjunto Padrão (LED), b) Slit Lamp Symphony Q 40H, Pronto para digital, (LED), c) Slit Lamp Symphony Q 40H, 2M, Digital 2MP (LED) Totalmente digital, incluindo captura de vídeo. Magnificação: 3 passos ou 5 passos. Escolha entre sistemas de magnificação de 3 ou 5 passos com troca de tambor. Ambos utilizam as mesmas ópticas de alta qualidade que você espera da Keeler, garantindo que a diferença esteja apenas nas ampliações, não na qualidade.",
+        "manual": "assets/manual/SYMPHONY.pdf"
+    },
+    "ALL PUPIL":{
+        "text": "Aprimorando o design do modelo indireto All Pupil, o campeão de vendas número um, o All Pupil II oferece controle total de iluminação e óptica de classe mundial, em uma construção simples, mas durável, ideal para profissionais da saúde ocular que precisam de um oftalmoscópio em que possam confiar. O Keeler All Pupil II foi desenvolvido para proporcionar facilidade de uso combinada com conforto equilibrado para uso regular em uma variedade de aplicações clínicas, através da visão binocular óptica usada em conjunto com uma lente condensadora. Perfeito para uso diário, o All Pupil II utiliza uma série de recursos de alta qualidade para realizar exames com perícia e eficiência. O design sem fio funciona perfeitamente com o headset igualmente balanceado, e a excelente iluminação é suportada por um difusor de ângulo amplo que oferece vistas excepcionais de todo o olho.",
+        "manual": "assets/manual/ALL_PUPIL.pdf"
+    },
+    "VANTAGE PLUS":{
+        "text": "O oftalmoscópio indireto binocular Vantage Plus, para uso na cabeça, oferece aos profissionais de saúde ocular de todo o mundo óptica de alta qualidade e iluminações brilhantes da retina. Projetado para acompanhar os consultórios mais movimentados, ele tem recursos fáceis de usar e tecnologia de ponta. A óptica de alta qualidade, a estereopsia automática e as lentes de alta ampliação com iluminação LED nítida e vívida e o difusor grande angular integrado trabalham em harmonia para proporcionar visões excepcionais da retina. Complementado por seu peso equilibrado, estofamento respirável e estrutura premium, você pode usar o Vantage Plus confortavelmente durante todo o exame e depois dele.",
+        "manual": "assets/manual/VANTAGE_PLUS.pdf"
+    },
+    "TONÔMETRO DE APLANAÇÃO KAT":{
+        "text": "Como acessório para lâmpadas de fenda estilo torre, existem duas variantes; o tipo R é montado no poste do corpo óptico para uma fixação segura, enquanto o tipo T pode ser facilmente removido para uso mais amplo dentro de uma prática de lâmpada de fenda múltipla. Leve e portátil, feito com componentes usinados de precisão de alta qualidade, controles de qualidade rigorosos: pré, durante e após a montagem.Dispositivo completamente mecânico e não alimentado por bateria que não requer energia elétrica. Prisma de tonômetro reutilizável incluído. Projetado e montado à mão no Reino Unido.",
+        "manual": "assets/manual/KAT.pdf"
+    },
+    "TONÔMETRO SEM CONTATO PULSAIR":{
+        "text": "O Keeler Pulsair Desktop oferece segurança, confiabilidade e elegância em sua triagem e diagnóstico de glaucoma, para o benefício de você e seus pacientes. Fácil de usar, seu design ergonômico inclui um mainframe óptico fino, permitindo que ele se misture perfeitamente em qualquer ambiente clínico. Benefícios: Funcionalidade intuitiva para facilidade de utilização por todos, Velocidade e precisão para medições rápidas e eficientes, Design avançado, melhorando a confiança do paciente, Economia de custos sustentável não há necessidade de consumíveis estéreis, Projetado, projetado e montado à mão no Reino Unido",
+        "manual": "assets/manual/PULSAIR.pdf"
+    },
+    "4SIGHT":{
+        "text": "O Ultrassom 4SIGHT torna a captura de imagens e vídeos em alta resolução simples, em uma sonda portátil de fácil utilização, perfeita para ser compartilhada entre vários usuários ou para trabalhar em movimento. A sonda UBM é totalmente compatível com o software Keeler Connect e 4Sight™, permitindo uma configuração fácil e uso imediato, o que significa que você pode iniciar os exames instantaneamente.",
+        "manual": "assets/manual/4SIGHT.pdf"
+    },
+    "B-SCAN PLUS":{
+        "text": "O B-Scan Plus é um dispositivo de ultrassom portátil, fácil de usar e de alta qualidade, que oferece imagens de alta resolução e vídeos de alta qualidade. O software proprietário do B-Scan Plus e do B-Scan Plus Vet, combinado com a eletrônica de sonda exclusiva, o torna o único B-Scan portátil de alta definição. Acessórios incluídos: Instalação de software, USB stick, porta-sonda, pedal, mouse sem fio e gel oftálmico.",
+        "manual": "assets/manual/B-SCAN_PLUS.pdf"
+    },
+    "Acessórios para Laser":{
+        "text": " Cicloprobes, Endoprobes, Adaptadores de lâmpada de fenda e de laser, OBI LIO. Vide documentação a seguir.",
+        "manual": "https://www.lightmed.com/products/ophthalmology/accessories/?page=1"
+    },
+    "DEUX":{
+        "text": " O LightLas SLT Deux™ é um dos lasers mais recentes, polivalentes e avançados do mercado, oferecendo funções de Trabeculosplatia Seletiva a Laser (SLT) e Fotorruptura de YAG no design integrado exclusivo da LightMed. Além disso, o LightLas SLT Deux™ pode ser incorporado aos Fotocoaguladores da Lightmed, oferecendo funções excelentes e modalidades incomparáveis para tratamento de Glaucoma, Catarata e Retina, em um laser de plataforma única, com valor industrial incomparável.",
+        "manual": "assets/manual/DEUX.pdf"
+    },
+    "LIGHTLAS 810":{
+        "text": "LIGHTLas 810 Diode Laser Photocoagulator Console True Solid State 3.0W, 810nm Laser System. Inclui: - Modos de Tecnologia Laser de Onda Contínua Convencional (CW) e SP-Mode® Microsegundo (plataforma ajustável) - Pedal sem fio de controle de potência - Interface com tela sensível ao toque LCD de 7'' - Óculos de segurança - Embalado em uma maleta de transporte.",
+        "manual": "assets/manual/LIGHTLAS_810.pdf"
+    },
+    "YAG SYL PULSA 9000":{
+        "text": " Compacto e leve, para facilitar o transporte. Óptica de excelente qualidade para uma imagem clara e boa liberação de lasers. Funções completas de lâmpada de fenda, incluindo trocador de ampliação de 5 etapas. Comprimento focal mais longo para olhos de ajuste profundo. Controlado por microprocessador, com muitos recursos de segurança integrados. Laser Q-Switched de cristal CD-YAG para confiabilidade. Compensação de laser YAG anterior e posterior de 500 mícrons.",
+        "manual": "assets/manual/YAG_SYL_PULSA_9000.pdf"
+    },
+    "LIGHTLAS 532":{
+        "text": "Laser Fotocoagulador LIGHTLas 532: Quando combinado com a lâmpada de fenda, oftalmoscópio indireto ou Endo Probes, a linha LIGHTLas oferece as melhores soluções em tratamentos para retina e glaucoma. Versátil, eficaz e econômico. Alta capacidade de trabalho. Potência de 2,0W. Interface avançada de tela de LCD sensível ao toque. Tela com fáceis ajustes de seleção e tratamento. OPÇÃO COM MICROPULSO.",
+        "manual": "assets/manual/LIGHTLAS_532.pdf"
+    },    
+    "LIGHTLAS 577":{
+        "text": "Fotocoagulador Laser Amarelo LIGHTLas 577 - Laser de Estado Sólido Verdadeiro 2.0W, 577nm. Inclui: Modos convencional de comprimento de onda contínuo (CW) e SP-Mode® Microsecond Laser Technology (plataforma ajustável). Controle de potência. Pedal sem fios. interface de ecrã tátil LCD de 7 polegadas. Óculos de proteção. Embalado numa mala de transporte.",
+        "manual": "assets/manual/LIGHTLAS_577.pdf"
+    },   
+    "TRUSCAN PRO":{
+        "text": "Este sistema de laser inclui um IDS (Integrated Delivery System) recentemente concebido, bem como uma Mesa Inteligente LIGHTMED que foi especificamente concebida para as necessidades e comodidade dos médicos e dos seus pacientes. Caraterísticas: 2.lasers verde de 0 W, amarelo de 2,0 W, vermelho de 0,7 W e infravermelho de 3,0 W. Modos convencionais de comprimento de onda contínuo (CW) e tecnologia de laser de microssegundos SP-Mode®. Sistema ultrarrápido de varrimento de padrões de lâmpada de fenda Galvo. Controle do ponto de zoom parfocal continuamente variável (50 - 500 µm). Pedal sem fios de controle de potência. interface LCD com ecrã tátil de 15 polegadas. Mesa de coluna única acessível a cadeiras de rodas. Apoio de braço ajustável em altura. Console de laser amovível para o bloco operatório. Óculos de segurança. Filtro de segurança integrado. Console de sistema de porta dupla. Ecrã de cabeça incorporado.",
+        "manual": "assets/manual/TRUSCAN_PRO.pdf"
+    }, 
+    "LRK-7000":{
+        "text": "Auto-refrator/Queratômetro para fornecer resultados precisos, maximizando a facilidade de utilização. O LRK-7000 é capaz de fornecer resultados precisos graças à sua tecnologia Smart Assembly Moving Control. Esta tecnologia, combinada com a sua fonte de luz de elevado desempenho, permite que os profissionais efetuem um exame mais abrangente, mantendo a qualidade em cada passo. Precisão de qualidade superior possibilitada por um cristal rotativo. A tecnologia atual permite que este dispositivo tenha em conta os erros de refração. O dispositivo funciona através da projeção de um anel na retina. O Smart Assembly Moving Control ajusta-se automaticamente para permitir a maior clareza e estabilidade possíveis do sinal, de modo a que a saída resultante seja precisa e clara. O LRK-7000 tem em consideração aspectos que podem influenciar o processo de medição, como erros de refração, cataratas ou outros problemas visuais. Isto permite-lhe fornecer, sem problemas, um resultado mais exato, apesar de quaisquer condições que normalmente dificultariam a medição.",
+        "manual": "assets/manual/LRK-7000.pdf"
+    }, 
+    "MR-6000":{
+        "text": "Desenvolvido pela Tomey, o MR-6000 surpreende por combinar 6 sistemas em apenas um equipamento: Refração; Ceratometria; Topografia; Tonometria; Paquimetria; 4 ferramentas diferentes de análise de olho seco. O rápido alinhamento e a fácil mudança entre uma função e outra nesse equipamento composto pela mais avançada tecnologia aprimora a eficiência de todos os exames que são integrados em um mesmo banco de dados. É como comprar 6 equipamentos avançados e imprescindíveis para um renomado consultório e precisar dispor do espaço físico para alocar um que, inclusive, não exige uma mesa especial para ser manuseado.",
+        "manual": "assets/manual/MR-6000.pdf"
+    }, 
+    "AL-4000":{
+        "text": "Esta combinação extremamente prática e fácil de usar de Bio e paquímetro não deixa nada a desejar em termos de conforto e flexibilidade. A comunicação sem fio e o software de cálculo de energia IOL totalmente integrado permitem que os usuários acessem a configuração completa do dispositivo portátil AL-4000 em um PC. Comprimento axial e espessura da córnea. Cálculo múltiplo da potência da LIO. Sonda de diagnóstico A-Scan (opcional). Corpo compacto. Software de banco de dados (TB-1000). Bluetooth. Métodos de contato e imersão",
+        "manual": "assets/manual/AL-4000.pdf"
+    }, 
+    "OA-2000":{
+        "text": "O OA-2000 da Tomey realiza medida do comprimento axial, cristalino, câmara anterior, topografia e paquimetria em único equipamento. Moderno e tecnológico sistema de diagnóstico que é capaz de entregar um incrível resultado mesmo em condições oculares excepcionais, fornecendo ainda os dados necessários para o cálculo de lentes tóricas. Combinando tecnologias Swept Source e disco de plácido, o OA-2000 é capaz de realizar medições automáticas sem contato, não invasivas, do comprimento axial, profundidade da câmara anterior, espessura da lente, espessura da córnea central com base na tecnologia de domínio de Fourier. Com uma usabilidade verdadeiramente aprimorada, o OA-2000 é capaz de gerar várias medidas em uma única tentativa. Além disso, o equipamento fornece um banco de dados interno para armazenamento.",
+        "manual": "assets/manual/OA-2000.pdf"
+    }, 
+    "EM-4000":{
+        "text": "O exame sem contato, o autoalinhamento e a medição, além da análise automática da camada endotelial, tornam o trabalho com o microscópio especular EM-4000 profissional e rápido (4 segundos para ambos os olhos). Graças à nossa tecnologia de autoalinhamento, podemos garantir a reprodutibilidade da área medida e, consequentemente, também dos valores analisados. A paquimetria sem contato integrada é automaticamente medida a cada exame central. A grande tela sensível ao toque em cores é usada tanto como monitor de operação quanto para exibir todos os valores medidos. Todos os comandos podem ser dados via tela sensível ao toque. Características: - Autoalinhamento + medição automática; - Paquimetria sem contato integrada; - 13 áreas de medição; - Base de dados e impressora integrados; - Análise automática, contagem de células (L-count), método Core, método de área escura; - Contagem de até 300 células; - Extremamente rápido.",
+        "manual": "assets/manual/EM-4000.pdf"
+    },
+    "CASIA2":{
+        "text": "O OCT de Segmento Anterior CASIA2 oferece uma experiência impressionante ao usuário com operação intuitiva e automação, apoiada por uma velocidade de medição incrível. O software guia você durante a medição, análise e relatório final. Aplicação para testes em cirurgias de catarata/glaucoma/córnea: -Análise do ângulo do glaucoma (360°); -Imagens avançadas em alta resolução e profundidade de varredura profunda (13 mm); -Velocidade de varredura muito rápida (50.000 A-scans/segundo); -Topografia corneana e escolha/cálculo de LIO (lente intraocular); -Análise da forma do cristalino e análise de tendências; -Simulação de LIO fácica; -Análise total; -Função pré e pós-operatória para ICL (Implante de Lente de Contato).",
+        "manual": "assets/manual/CASIA2.pdf"
+    },
+    "TMS-4N":{
+        "text": "O TMS-4N oferece alta resolução, precisão e operação simplificada. O design do cone de luz de placido elimina sombras causadas pelo nariz e sobrancelhas, proporcionando uma cobertura corneana extensa. Características: -Função de disparo automático; -Análise refrativa por Fourier; -Triagem de ceratocone e outras aplicações; -Operação de banco de dados fácil; -Operação multilíngue; -Software abrangente; Com esses recursos, o TMS-4N combina tecnologia avançada com facilidade de uso, garantindo resultados precisos e confiáveis para uma variedade de aplicações oftalmológicas.",
+        "manual": "assets/manual/TMS-4N.pdf"
+    },
+    "UD-800":{
+        "text": "B-scanner, Biômetro, Paquímetro e A-Diagnóstico tudo em um só equipamento. O ultrassom UD-800 foi desenvolvido para atender às suas expectativas e requisitos. Recursos como a nova geração de sondas de matriz anular, operação por tela sensível ao toque de alta resolução e comunicação de dados via USB ou LAN tornam este dispositivo fácil de manusear e rápido e eficiente em operação. Basta escolher todos os recursos desejados! Com sua exclusiva sonda B-Scan de 10 MHz com matriz de 2 anéis e sonda de biometria A-Scan, o UD-800 é uma ferramenta básica fantástica para um desempenho de alto nível. Características: -Biômetro A-Scan 10 MHz; -Sonda B-Scan de 10 MHz com matriz de 2 anéis; -Sistema modular configurável; -Banco de dados interno; -Paquimetria (opcional); -Sonda B-Scan UBM de 40 MHz (opcional); -Sonda A-Diagnóstico (opcional). O UD-800 é uma solução versátil e eficiente para profissionais que buscam precisão e praticidade em seus diagnósticos oftalmológicos.",
+        "manual": "assets/manual/UD-800.pdf"
+    },
+    "KR-1W":{
+        "text": "O Topcon KR-1W é o único sistema de topografia e frente de onda que oferece funcionalidades de refração e diagnóstico. Características principais: 5 funções em 1 (aberrometria de frente de onda, topografia da córnea, refractometria, ceratometria e pupilometria); Medição r/l automatizada e manipulação do painel táctil; Apoio à decisão para procedimentos de cataratas e refractivos; Sequência de imagens de frente de onda. 5 funções em 1: O Topcon KR-1W é o único sistema de topografia e frente de onda que oferece funcionalidades refrativas e de diagnóstico. O instrumento pode ser utilizado para aberração de frente de onda, topografia da córnea, pupilometria, ceratometria e auto-refração. Todas as medições são efetuadas com um simples toque no joystick. O Topcon KR-1W ajudará a acelerar o seu fluxo de trabalho, a melhorar a comunicação com os pacientes e a monitorizar os resultados dos seus tratamentos. O sistema de topografia e frente de onda KR-1W possui um sistema de alinhamento automático, para maior facilidade de uso e operação amigável.",
+        "manual": "assets/manual/KR-1W.pdf"
+    },
+    "SOLOS":{
+        "text": "O SOLOS é um lensômetro totalmente automatizado, equipado com um espectrômetro de faixa completa que detecta, mede e marca lentes monofocais, progressivas e outros tipos de lentes multifocais, tanto montadas em armações de óculos quanto como lentes não cortadas. Com um único toque, o SOLOS posiciona automaticamente cada lente, detecta o tipo de lente e realiza medições abrangentes de ambas as lentes dentro da armação do óculos.Os resultados das medições podem ser enviados para a impressora integrada e exportados para um sistema EMR (Registro Eletrônico Médico), para o foróptero digital CV-5000S da Topcon ou para o sistema de refração binocular Chronos. O SOLOS combina um lensômetro de mapeamento com um espectrômetro de faixa completa e marcação de lentes para análise avançada de lentes. O medidor de transmitância espectral foi projetado para medir a transmissão de comprimentos de onda de luz em todos os tipos de materiais de lentes. O gráfico de transmitância ajuda a explicar os benefícios da proteção contra UV-A e luz azul ao comprador de óculos.",
+        "manual": "assets/manual/SOLOS.pdf"
+    },
+    "CL-300":{
+        "text": "O CL-300 é um medidor de lentes computorizado com um painel de ecrã táctil e medidor de UV. Características principais: - Painel táctil LCD a cores; - Medição da transmitância UV; - Feixe de luz de medição verde. O design compacto e ergonómico do Topcon CL-300 e o ecrã táctil a cores intuitivo garantem que as medições podem ser obtidas de forma fácil e rápida. A CL-300 detecta e mede automaticamente todos os tipos de lentes, incluindo as lentes progressivas. As lentes de contacto também podem ser medidas de forma fácil e confortável com a Topcon CL-300. Devido ao feixe de leitura de luz verde, a compensação ABBE não é mais necessária. A função de medição de UV fornece informações sobre a transmitância ultravioleta no intervalo de 0% a 100%, proporcionando resultados de medição fiáveis para óculos e óculos de sol.",
+        "manual": "assets/manual/CL-300.pdf"
+    },
+    "KR-1":{
+        "text": "O Topcon KR-1 é um moderno queratômetro-refrator automático e fácil de usar, controlado por uma tela sensível ao toque colorida com a tecnologia Rotary Prism da Topcon. Principais características: Operação totalmente automatizada com tela sensível ao toque rotativa. Design flexível e que economiza espaço. Medidas confiáveis e rápidas. O dispositivo obtém automaticamente os dados de refração objetiva do olho direito e esquerdo. O KR-1 detecta automaticamente condições anormais dos olhos, como catarata. O instrumento muda automaticamente para o “modo catarata” e continua a medição. Se necessário, o KR-1 também pode ser configurado no modo manual. O modo manual pode ser usado para focagem e aquisição, enquanto os movimentos para cima/baixo e esquerda/direita permanecem automatizados. Com a exclusiva Tecnologia Rotary Prism™ da Topcon, o KR-1 oferece precisão e confiabilidade incomparáveis. Essa tecnologia garante resultados reprodutíveis. A medição objetiva de ambos os olhos é realizada de forma rápida e confortável para o paciente. Esse auto queratómetro-refrator pode até medir pacientes com diâmetro pupilar tão pequeno quanto 2,0 mm.",
+        "manual": "assets/manual/KR-1.pdf"
+    },
+    "KR-800":{
+        "text": "O autoceratômetro e refratômetro KR-800 incorpora a mais recente tecnologia de design e ergonomia. Tecnologia de Prisma Rotativo™ da Topcon para alta precisão. 8.painel LCD de 5 polegadas com ecrã táctil. LAN conectável. Apresenta um painel de ecrã táctil a cores brilhante de 8,5 polegadas para controlar as funções principais e um funcionamento melhorado do joystick devido a uma redução de 23% no peso em relação aos modelos anteriores. Os sistemas Topcon são conhecidos por sua precisão devido à comprovada Rotary Prism Technology™. O tamanho e o design compacto do KR-800 economiza espaço e adiciona funcionalidade à prática contemporânea de cuidados com a visão. A conectividade LAN para exportação de dados e a impressora de encaixe na frente do instrumento asseguram uma utilização versátil do KR-800. Nem todos os produtos, serviços ou ofertas são aprovados ou oferecidos em todos os mercados, e os produtos variam de um país para outro. Contacte-nos para obter informações específicas do país.",
+        "manual": "assets/manual/KR-800.pdf"
+    },
+    "KR-800PA":{
+        "text": "O KR-800PA oferece uma análise precisa da córnea, utilizando o anel placido e seu sofisticado princípio de medição. Ele inclui a tecnologia patenteada Rotary-Prism da Topcon para medições de refração e ceratometria. O sistema de mapeamento da córnea suporta a adaptação de lentes de contacto e o diagnóstico de astigmatismo irregular da córnea. Fornece informações sobre a forma da córnea e é exibido rapidamente e até mesmo sobrepõe o resultado do mapeamento no segmento anterior com um único toque. O KR-800PA da Topcon é uma opção acessível para todas as clínicas que oferecem refração e adaptação de lentes de contacto. Para facilitar a operação e agilizar as medições na sua clínica, o KR-800PA possui alinhamento automático 3D e uma função de início automático. Assim que o instrumento estiver corretamente alinhado, esta função inovadora inicia o processo de medição e efetua várias leituras de cada olho. O Topcon KR-800PA vem com o software de visualização externa i-Map for KR para análise detalhada da córnea. O software é capaz de analisar remotamente os dados da córnea adquiridos pelo KR-800PA. O i-Map for KR é também uma plataforma perfeita para uma adaptação eficiente de lentes de contacto RGP. A função de simulação de lentes de contacto selecciona automaticamente a lente de contacto mais adequada com base na base de dados integral e abrangente de lentes de contacto, que inclui todos os principais fabricantes.",
+        "manual": "assets/manual/KR-800PA.pdf"
+    },
+    "TRK-2P":{
+        "text": "4 em 1: refracção, ceratometria, tonometria e paquimetria. Totalmente automático. Sopro de ar suave. O TRK-2P da Topcon combina um refractÔmetro, queratÔmetro, tonÔmetro sem contacto e paquímetro num único instrumento compacto. O TRK-2P possui um sistema de alinhamento totalmente automático com função de medição automática. O tamanho compacto e o painel de controle com ecrã tátil a cores rotativo de 8,5 polegadas oferecem total flexibilidade ao operador e também à localização do instrumento. Prisma rotativo. Com apenas um toque da ponta do dedo no painel de controle, o TRK-2P da Topcon medirá ambos os olhos com precisão, graças à tecnologia de prisma rotativo™ exclusiva da Topcon. Modo de catarata. O TRK-2P tem uma função integrada que permite a medição de pacientes com catarata ou opacidade. Essa função funciona automática ou manualmente. Sopro de ar suave. O design melhorado do bocal controla a quantidade ideal de ar necessária para cada medição da PIO. Um sopro de ar mais suave melhora o conforto do paciente e resulta numa melhor experiência de medição. Pressão intra-ocular (PIO) ajustada. A função de paquímetro pode ser utilizada para ajustar o valor da PIO medida em função da espessura da córnea. A fórmula integrada para o ajuste da PIO pode ser personalizada pelo profissional de saúde ocular.",
+        "manual": "assets/manual/TRK-2P.pdf"
+    },
+    "CT-1P":{
+        "text": "O tonômetro CT-1P possui operação totalmente automatizada, com medições rápidas e confiáveis; Cálculo do PIO ajustado em função da espessura da córnea. Basta tocar no centro da pupila no painel de controlo do ecrã tátil que o CT-1P inicia automaticamente o processo de alinhamento e aquisição de valores de pressão intraocular (PIO) e paquimetria para ambos os olhos. Através do ecrã tátil giratório, o CT-1P pode ser posicionado em qualquer posição e permite que o operador se posicione em qualquer lugar em relação ao paciente e todas as ações de funcionamento podem ser realizadas com segurança. A respiração de ar suave utilizada para medir reduz o stress ocular e melhora o conforto do paciente. O Topcon CT-1P calcula a PIO ajustada com base nos valores de paquimetria medidos, a fim de ter valores de pressão intraocular fiáveis.",
+        "manual": "assets/manual/CT-1P.pdf"
+    },
+    "CT-800":{
+        "text": "O CT-800, tonômetro computadorizado de não contato, torna a medição da pressão intraocular (IOP) mais fácil do que nunca. Principais características: - Jato de ar suave; - Sistema de entrada de ar sem manutenção; - Cálculo da PIO ajustada com base nos valores de paquimetria. A tela sensível ao toque de 8,5 polegadas garante o controle de todas as funções com apenas um toque de dedo. O movimento suave da base, resultante de uma redução de 23% no peso em relação aos modelos anteriores, e a melhoria na operação do joystick tornam o CT-800 fácil de usar. O jato de ar suave garante resultados de medição precisos, que podem ser impressos por meio da impressora frontal ou exportados por meio de uma conexão LAN. O sistema de entrada de ar resulta em menos manutenção e garante precisão. O CT-800 é capaz de calcular a pressão intraocular ajustada com base na entrada manual dos valores de paquimetria. O design compacto do CT-800 economiza espaço e adiciona funcionalidade à prática contemporânea de cuidados oculares.",
+        "manual": "assets/manual/CT-800.pdf"
+    },
+    "ALADDIN":{
+        "text": "O Aladdin é um equipamento fácil de usar que combina um biômetro óptico e um topógrafo corneal completo. Os recursos 9 em 1 incluem: biometria por coerência óptica, topografia de Plácido, análise de frente de onda da córnea, suíte de cálculo de LIO (lente intraocular), pupilometria, conectividade DICOM e o NOVO Módulo RX/AL Trends. Os resultados da biometria por interferometria posterior e anterior são complementados com topografia anterior, análise de Zernike e pupilometria em uma única aquisição rápida, precisa e fácil. O Interferômetro do Aladdin também fornece medições anteriores, como a Espessura Central da Córnea (ECC), Profundidade da Câmara Anterior (PCA) e Espessura do Cristalino. Você obtém uma visão completa para todas as cirurgias de catarata. Seja realizando cirurgias de catarata padrão ou implantes de LIOs premium, você estará avaliando simultaneamente aberrações corneanas, ceratocone e procedimentos anteriores de cirurgia refrativa corneana, tudo de uma só vez. O Aladdin requer apenas uma única aquisição.",
+        "manual": "assets/manual/aladdin.pdf"
+    },
+    "CA-800":{
+        "text": "O Topcon CA-800 Corneal Analyzer é uma solução de topografia corneal abrangente e fácil de usar, que permite a avaliação completa da superfície anterior da córnea. Além do mapeamento de elevação da superfície corneal, o CA-800 oferece recursos de software robustos, permitindo uma análise total da superfície corneal do paciente.",
+        "manual": "assets/manual/CA-800.pdf"
+    },
+    "MYAH":{
+        "text": "O MYAH oferece todas as tecnologias necessárias para apoiar o manejo da miopia: biometria óptica, topografia corneana e pupilometria. Além disso, o MYAH é um dispositivo all-in-one que oferece uma plataforma evolutiva, fornecendo ferramentas para adicionar ou expandir o manejo do Olho Seco. Faz medição do comprimento axial, solta relatórios de progressão para analisar a eficácia do tratamento, possui ferramentas de avaliação do Olho Seco. Monitore a progressão da miopia e compare medições com curvas de crescimento para o comprimento axial. O MYAH fornece a linha de base inicial para monitorar o risco, permitindo que você inicie a conversa cedo com os pais. O MYAH fornece informações essenciais para monitorar o alongamento ocular e comparar as medições do comprimento axial com curvas de crescimento integradas. A maioria dos olhos míopes torna-se míope principalmente por causa do excessivo alongamento axial. Ao usar o extenso conjunto de dados de comprimento axial coletado pela Universidade Erasmus (Roterdã, Holanda), agora incorporado ao MYAH, você pode monitorar o comprimento axial e comparar os dados do paciente com curvas de crescimento normativas. Assim, será possível entender melhor o risco de miopia de uma criança na idade adulta. ",
+        "manual": "assets/manual/MYAH.pdf"
+    },
+    "SL-2G":{
+        "text": "A lâmpada de fenda Topcon SL-2G é uma lâmpada de fenda básica na gama de produtos da Topcon. O SL-2G tem uma fonte de luz LED que é econômica e amiga do ambiente. O SL-2G é o modelo mais econômico da gama de lâmpadas de fenda Topcon. Proporciona qualidade topcon de renome e flexibilidade suficiente para cobrir as necessidades básicas da prática geral. A luz LED tem um tempo de vida aproximado de 10.000 horas, que é 100 vezes maior do que as lâmpadas convencionais de halogênio. A fonte de luz LED oferece uma iluminação uniforme e consistente. A lâmpada de fenda SL-2G incorpora ampliações de 10x, 16x e 25x, além disso incorpora filtros azuis e vermelhos.",
+        "manual": "assets/manual/SL-2G.pdf"
+    },
+    "SL-D301":{
+        "text": "A Topcon SL-D301 é uma lâmpada de fenda clássica e económica, especialmente concebida a pensar na clínica de optometria. Três ampliações: 10x, 16x e 25x. Filtro azul, filtro sem vermelho, filtro ND, filtro de corte UV e filtro de corte IR. Iluminação de halogéneo. O SL-D301 é um biomicroscópio estereoscópico convergente com excelente óptica do tipo Galileu, que produz uma visão nítida e clara. A iluminação de halogéneo e o campo de visão de 9 mm em combinação com 3 selecções de ampliação (10x, 16x e 25x) ajudam-no numa vasta gama de aplicações de rastreio. O SL-D301 é compatível com a câmara digital opcional Topcon DC-4 que oferece imagens fixas de alta resolução, capacidades de vídeo com exposição automática e função de captura inteligente.",
+        "manual": "assets/manual/SL-D301.pdf"
+    },
+    "SL-D4":{
+        "text": "O SL-D4 faz parte da série de lâmpadas de fenda digitais da Topcon. Essa lâmpada de fenda digital pode ser usada como um biomicroscópio convencional ou como uma lâmpada de fenda com várias opções de imagem. Cinco magnificações : 6x, 10x, 16x, 25x, 40x, ideais para visualizar detalhes em práticas especializadas diárias. Design compacto : ergonomia amigável ao usuário (distância ocular curta até o paciente). Quando usado em combinação com o DC-4 Digital Attachment da Topcon, todas as lâmpadas de fenda da série SL “D” podem capturar e transferir imagens para o IMAGEnet 6 . O IMAGEnet 6 é o software proprietário de gerenciamento de dados da Topcon, capaz de capturar, armazenar, exibir e aprimorar imagens digitais obtidas com dispositivos Topcon.",
+        "manual": "assets/manual/SL-D4.pdf"
+    },
+    "SL-D701":{
+        "text": "O SL-D701 é uma lâmpada de fenda digital que pode ser utilizada com iluminação halógena convencional ou com iluminação LED. Possui cinco magnificações : 6x, 10x, 16x, 25x e 40x para uso especializado diário. Quatro filtros para exames aprimorados. A iluminação LED permite observação em condições mais brilhantes e homogêneas do que a iluminação halógena convencional. A iluminação LED garante uma temperatura de cor consistente durante o ajuste da intensidade luminosa. Devido ao comprimento de onda mais curto do LED, há uma visualização mais fácil de detalhes na câmara anterior e vítreo, como flare e inflamação. O Topcon SL-D701 incorpora quatro filtros selecionáveis: um filtro de cobalto, filtro vermelho livre (red-free), filtro de densidade neutra e filtro âmbar. O filtro âmbar melhora o contraste e a cor na observação da retina. O SL-D701 possui olhos de observação de 12,5x e tubos binoculares convergentes com um corpo de ampliação paralela (6x, 10x, 16x, 25x e 40x) para observação estereoscópica extremamente nítida. Como dispositivo autônomo, o botão de disparo no joystick do Topcon SL-D701 fornece um aumento de iluminação para observação detalhada, disponível tanto para iluminação halógena quanto LED. O Blue Free Filter™ do Topcon SL-D701 consiste em uma combinação de um filtro excitador especial e filtro de barreira (opção de fábrica). Esse sistema Blue Free Filter™ garante uma observação de fluoresceína 1,6 vezes mais brilhante do que o filtro de cobalto convencional. Detalhes do fluxo lacrimal e cicatrizes podem ser claramente visualizados com menos reflexos ou acumulação de luz.",
+        "manual": "assets/manual/SL-D701.pdf"
+    },
+    "OMS-800":{
+        "text": "A série de microscópios cirúrgicos OMS-800 é a escolha ideal para todos os tipos de operações oftalmológicas, incluindo cirurgias de catarata e vítreo. Ela oferece imagens estereoscópicas e com correção de cor de excelente qualidade, iluminação brilhante e uma eficiência operacional superior para os procedimentos sofisticados da atualidade. O cabeçote óptico, ergonomicamente projetado, com divisor de feixe integrado, permite ao cirurgião manter uma postura confortável durante toda a cirurgia. A base estável e compacta, juntamente com o braço de suporte longo do OMS-800, proporciona uma área de trabalho confortável tanto para o cirurgião quanto para o assistente. Sem a necessidade de mover as mãos, o cirurgião pode ajustar a intensidade da iluminação, o nível de ampliação do zoom, o foco, a seleção do ângulo de iluminação e o posicionamento X-Y.",
+        "manual": "assets/manual/OMS-800.pdf"
+    },
+    "OMS-90":{
+        "text": "O microscópio cirúrgico OMS-90 é o novo padrão em microcirurgia versátil. Ele conta com lente objetiva com revestimento hidrorrepelente, nova iluminação coaxial, botão de ajuste de distância interpupilar (PD) e ampliação em cinco níveis. O novo e inovador design permite ao cirurgião visualizar uma imagem mais nítida, com maior clareza do que nunca. Um revestimento especial antimanchas é aplicado para manter a área de visualização sempre limpa, e o comprimento focal (F=200mm) proporciona uma distância de trabalho confortável e padronizada. O tubo binocular paralelo oferece uma visão estereoscópica natural.O recurso de ajuste de PD integrado permite um alinhamento fácil.O filtro amarelo com mecanismo flip in/out (rebatível) está integrado ao sistema, oferecendo proteção total contra a fototoxicidade da retina. A base robusta e compacta de 740 mm (30”) foi projetada para uso otimizado em salas cirúrgicas com espaço de piso limitado.",
+        "manual": "assets/manual/OMS-90.pdf"
+    },
+    "SP-1P":{
+        "text": "O microscópio especular Topcon modelo SP-1P apresenta um procedimento de captura totalmente automático, aliado a um design moderno e ergonômico que simplifica o uso e aumenta a eficiência. Um amplo monitor touch screen rotativo de 10,4 polegadas elimina a necessidade de joystick e pode ser ajustado em vários ângulos, permitindo uma melhor interação com o paciente. As características de economia de espaço, combinadas com a facilidade de uso, fazem do SP-1P o instrumento de uma nova geração no cuidado ocular. Aumento significativo da área analisada. Curso Sequencial e Curso Estilo Livre. Operação intuitiva com obtenção instantânea dos resultados da análise. Valores mais frequentemente consultados são exibidos no topo; o histograma pleomórfico/polimegético pode ser apresentado em cores. Monitor touch screen rotativo de 10,4” para posicionamento versátil.",
+        "manual": "assets/manual/SP-1P.pdf"
+    },
+    "MAESTRO 2":{
+        "text": "O Maestro2, a câmera de fundo de olho com OCT robótico — agora com OCTA — oferece um nível de detalhe incomparável na avaliação da estrutura retiniana e da função vascular, tudo a partir de uma única varredura. O Maestro2 fornece dados de referência de OCT para o nervo óptico, a camada de fibras nervosas da retina (RNFL), células ganglionares e espessura macular. Além disso, você obtém uma foto de fundo de olho em cores reais com registro preciso em relação ao OCT. OCT robótico e câmera de fundo de olho em cores reais com captura automatizada por um único toque. Visões aéreas da vasculatura retiniana em níveis pré-definidos, relevantes para o diagnóstico de doenças. Codificação por cores que ajuda a diferenciar o fluxo sanguíneo normal do anormal. Varredura 3D de 12x9mm que captura a mácula e o disco óptico, incluindo o Relatório de Hood para Glaucoma. Imagem multimodal com OCT e fotografia de fundo de olho em cores reais. Projeto que economiza espaço, adaptando-se a qualquer ambiente clínico.",
+        "manual": "assets/manual/MAESTRO 2.pdf"
+    },
+    "TRITON PLUS":{
+        "text": "O Triton utiliza a tecnologia Swept-Source para permitir a visualização das camadas mais profundas do olho – mesmo através de cataratas, hemorragias, bolhas de gás e outras opacidades de mídia, possibilitando a obtenção de imagens para mais pacientes. A alta velocidade de escaneamento de 100 kHz e o feixe de escaneamento invisível capturam imagens detalhadas rapidamente, resultando em menos artefatos de movimento e uma qualidade de imagem impressionante. Reduza o tempo de consulta e melhore seu fluxo de trabalho clínico com menos reescaneamentos e imagens multimodais, incluindo SS-OCT, True-Color, Digital Red-free e OCT de segmento anterior opcional. O Triton (plus) adiciona angiografia por fluoresceína (FA) e autofluorescência de fundo (FAF) ao Triton.",
+        "manual": "assets/manual/TRITON PLUS.pdf"
+    },
+    "CV-5000":{
+        "text": "O CV-5000S torna a refração mais rápida, oferece uma alternativa ergonômica à refração manual e eleva a experiência do paciente. Mostre rapidamente aos pacientes a diferença entre a prescrição antiga e a nova refração... e, por fim, venda mais óculos. A conectividade completa permite que os dados sejam enviados automaticamente para todos os sistemas CV do consultório e preenchidos automaticamente no EMR, agilizando as refrações e minimizando erros de transcrição.",
+        "manual": "assets/manual/CV-5000.pdf"
+    },
+    "810 Shortpulse": {
+        "text": "O Merilas 810 shortpulse é um laser oftalmológico de diodo para fotocoagulação, com duas modalidades de tratamento: subthreshold com pulsos em microssegundos ou modo contínuo (continuous wave). É indicado para aplicações clínicas em retina e glaucoma.",
+        "manual": "assets/manual/810 Shortpulse.pdf"
+    },
+    "Activa": {
+        "text": "Activa é uma máscara terapêutica para alívio de desconforto palpebral/ocular, combinando calor controlado (42°C por cerca de 15 minutos) com micro-vibração/massagem. A proposta é ajudar a manejar sintomas associados a disfunções das glândulas de Meibômio e outras condições palpebrais (como blefarite, terçol e calázio), favorecendo o conforto e o cuidado da superfície ocular.",
+        "manual": "assets/manual/Activa.pdf"
+    },
+    "AT-900": {
+        "text": "O AT 900 é um tonômetro de aplanação (Goldmann) usado para medir a pressão intraocular (PIO) pelo método de Goldmann, em conjunto com uma lâmpada de fenda. O princípio de operação se baseia na aplanação corneana (Imbert-Fick) usando um prisma de medição; a medição de PIO é um parâmetro importante para diagnóstico e acompanhamento do glaucoma.",
+        "manual": "assets/manual/AT-900.pdf"
+    },
+    "Eidon": {
+        "text": "CenterVue Eidon: retinógrafo confocal em verdadeira cor, com amplo campo de visão e alta qualidade de imagem para documentação e diagnóstico da retina. Oferece captura rápida e fluxo de trabalho simplificado.",
+        "manual": "assets/manual/Eidon.pdf"
+    },
+    "Eidon AF": {
+        "text": "CenterVue Eidon AF: versão com autofluorescência, combinando imagem confocal em verdadeira cor com detecção de autofluorescência para avaliação de alterações do EPR e metabolismo retiniano.",
+        "manual": "assets/manual/EidonAF.pdf"
+    },
+    "Eidon FA": {
+        "text": "CenterVue Eidon FA: versão com angiografia fluoresceínica (FA), permitindo documentação dinâmica do fluxo retiniano além de imagens confocais em verdadeira cor, em um fluxo de trabalho integrado.",
+        "manual": "assets/manual/EidonFA.pdf"
+    },
+    "BI-900": {
+        "text": "O BI 900 é uma lâmpada de fenda (slit lamp) usada para o exame do olho, auxiliando no diagnóstico e na documentação de doenças e traumas que afetam as estruturas oculares.",
+        "manual": "assets/manual/BI-900.pdf"
+    },
+    "BP-900": {
+        "text": "O BP 900 é uma lâmpada de fenda destinada ao exame do olho, em especial do segmento anterior (pálpebras, cílios, conjuntiva, córnea, câmara anterior, íris e cristalino), sendo utilizada em avaliações clínicas de rotina.",
+        "manual": "assets/manual/BP-900.pdf"
+    },
+    "BQ-900": {
+        "text": "O BQ 900 é uma lâmpada de fenda para exame oftalmológico, usada para auxiliar o exame, o diagnóstico e a documentação do olho humano por meio de biomicroscopia em lâmpada de fenda.",
+        "manual": "assets/manual/BQ-900.pdf"
+    },
+    "BX-900": {
+        "text": "O BX 900 é uma lâmpada de fenda usada para exame oftalmológico, em especial do segmento anterior do olho. Documentação do fabricante descreve o BX 900 como uma solução voltada a documentação/imagem em lâmpada de fenda, com recursos para fotografia clínica.",
+        "manual": "assets/manual/BX-900.pdf"
+    },
+    "CCQ-1100": {
+        "text": "O CCQ-1100 é um lensômetro/focímetro automático voltado à medição de lentes oftálmicas. Documentação do fabricante descreve recursos como sistema de medição Hartmann com múltiplos pontos (165 pontos de amostragem), suporte à medição de lentes progressivas (com sistema de medição para progressivas baseado em algoritmo), e medição de proteção UV e luz azul (UV com comprimento de onda central de 365 nm e luz azul com comprimento de onda central de 465 nm). Também é descrito que o equipamento pode ajustar automaticamente o brilho para medir lentes de baixa transmitância (até 5%) e detectar automaticamente tipos de lentes (padrão, progressiva e multifocal), exibindo resultados e gráficos para transmissões UV e de luz azul.",
+        "manual": "assets/manual/CCQ-1100.pdf"
+    },
+
+    "CCQ-500": {
+        "text": "O CCQ-500 é um lensômetro manual (focímetro) de leitura externa. Materiais do fabricante e de distribuidores descrevem o modelo como um focímetro manual com fonte de luz LED verde e amplo campo de visão, com possibilidade de uso de compensador de prisma. Também é descrito um conjunto voltado à robustez e uso em rotina (ex.: sistema selado para reduzir acúmulo de poeira, pontos de contato em silicone e operação bivolt, conforme materiais de mercado).",
+        "manual": "assets/manual/CCQ-500.pdf"
+    },
+
+    "CCQ-800": {
+        "text": "O CCQ-800 é um focímetro/lensômetro automático. O manual descreve que o equipamento mede principalmente potência esférica, potência cilíndrica e eixo do cilindro, incluindo medição de lentes de contato; também cita funções como marcação em lentes não cortadas e verificação de montagem correta de lentes em óculos. O manual menciona modos/funcionalidades de medição e atalhos para medições como PD/PH e transmitância UV, além de modos de medição (incluindo modo de identificação automática e modo para lentes progressivas).",
+        "manual": "assets/manual/CCQ-800.pdf"
+    },
+    "CellCheck-20": {
+        "text": "CellChek 20 é um microscópio especular sem contato para captura e análise de imagens do endotélio corneano. Materiais do fabricante descrevem a realização de exames bilaterais com operação de um toque, incluindo um modo simplificado (“Simple Mode”) para captura automatizada.",
+        "manual": "assets/manual/CellCheck-20.pdf"
+    },
+
+    "Compass": {
+        "text": "COMPASS é um dispositivo que combina um oftalmoscópio de varredura com um perímetro automático (fundus perimetry), permitindo adquirir imagens confocais da retina simultaneamente à medição de sensibilidade retiniana e à análise de fixação. O manual descreve operação em condição não midriática e indica o equipamento como auxílio na detecção e manejo do glaucoma, incluindo captura de imagens infravermelho e coloridas da retina e medições de sensibilidade retiniana.",
+        "manual": "assets/manual/Compass.pdf"
+    },
+
+    "Diopsys Nova": {
+        "text": "Diopsys NOVA é um sistema de testes de visão baseado em eletrofisiologia, destinado a fornecer medidas objetivas da função visual. Documentação do produto descreve o uso de testes como VEP (potenciais evocados visuais) e menciona a possibilidade de protocolos de ERG (eletroretinografia) para avaliação objetiva, incluindo situações em que a resposta subjetiva do paciente é limitada.",
+        "manual": "assets/manual/Diopsys Nova.pdf"
+    },
+
+    "Dream OCT": {
+        "text": "DREAM OCT é um sistema de tomografia de coerência óptica (OCT) swept-source. Materiais do fabricante descrevem grande profundidade de imagem (ex.: valores em torno de 12 mm em tecido para retina e 16,2 mm no ar para segmento anterior) e alta velocidade de varredura (com variações por configuração/registro do produto), voltado a aplicações de imagem de retina e segmento anterior.",
+        "manual": "assets/manual/Dream OCT.pdf"
+    },
+
+    "DRS Plus": {
+        "text": "O DRSplus (iCare/CenterVue) é um sistema de imagem de fundo de olho com aquisição de imagens coloridas da retina, projetado para captura com fluxo de trabalho automatizado (incluindo recursos como alinhamento e captura automáticos, conforme descrito em materiais do fabricante).",
+        "manual": "assets/manual/DRS Plus.pdf"
+    },
+
+    "EVA": {
+        "text": "O EVA (D.O.R.C.) é um sistema cirúrgico oftalmológico modular para procedimentos de segmento anterior e posterior. O manual de instruções descreve o sistema e seus controles (sem pretender ser um guia completo de cirurgia), voltado ao uso em cirurgias que podem envolver funções como infusão/aspiração e módulos associados ao sistema.",
+        "manual": "assets/manual/EVA.pdf"
+    },
+
+    "EVA Nexus": {
+        "text": "O EVA NEXUS (D.O.R.C.) é um sistema cirúrgico oftalmológico para procedimentos de segmento anterior e posterior; documentação regulatória descreve o dispositivo como um sistema combinado e modular, destinado a procedimentos que podem requerer funções como infusão, corte vítreo, aspiração, iluminação, irrigação e fotocoagulação. Materiais do fabricante apresentam o EVA NEXUS como plataforma com foco em desempenho e estabilidade, baseada em recursos de fluídica e na tecnologia VacuFlow VTi.",
+        "manual": "assets/manual/EVA Nexus.pdf"
+    },
+
+    "Evolution-3E": {
+        "text": "O Evolution 3E é uma unidade/console da MORIA usada em conjunto com sistemas e acessórios da marca, com modos de operação e rotinas de instalação/ligação, testes de vácuo, uso de pedal, manutenção e resolução de problemas descritos no manual. A documentação indica o equipamento como parte do ecossistema de consoles e sistemas completos da MORIA, associado a aplicações como ceratoplastia lamelar (ex.: DSAEK) e outras utilizações listadas no próprio manual.",
+        "manual": "assets/manual/Evolution-3E.pdf"
+    },
+    "Eyestar-900": {
+        "text": "O Eyestar 900 é um dispositivo sem contato para medir o olho humano. As instruções de uso descrevem que ele pode ser utilizado para medições de dados biométricos necessários em cirurgias de implante de lentes (IOL) e para a análise da câmara anterior. O equipamento integra unidade de medição, processamento interno e exibição de resultados, operado por tela (touch) e botões, com o software EyeSuite pré-instalado para operar o sistema e apoiar o fluxo de aquisição/avaliação das medições.",
+        "manual": "assets/manual/Eyestar-900.pdf"
+    },
+    "Femto-LDV-Z6": {
+        "text": "O FEMTO LDV Z6 (Ziemer) é descrito pelo fabricante como uma plataforma móvel de laser femtossegundo voltada a aplicações refrativas e terapêuticas no segmento anterior. A documentação pública do fabricante cita o uso para criação de flaps em procedimentos tipo FEMTO-LASIK e também o suporte a procedimentos terapêuticos como anéis intracorneanos e ceratoplastias, com criação de pockets precisos para implantes corneanos.",
+        "manual": "https://www.ziemergroup.com/en/products/laser-systems/femto-ldv-z6/"
+    },
+    "Femto-Z8 Neo": {
+        "text": "O FEMTO Z8 NEO (Ziemer) é um sistema de laser femtossegundo voltado ao segmento anterior. Documentação pública menciona que a aplicação de extração de lentícula (lenticule extraction) pode estar disponível como upgrade de software para o FEMTO Z8 NEO, e também cita que a plataforma pode ser utilizada em diferentes tipos de procedimentos, dependendo da configuração e aplicações habilitadas.",
+        "manual": "assets/manual/Femto-Z8 Neo.pdf"
+    },
+
+    "HOCT-1/1F": {
+        "text": "O HOCT-1/HOCT-1F (Huvitz) é um sistema de tomografia de coerência óptica (OCT) para diagnóstico por imagem, descrito como um equipamento não invasivo e sem contato, com aquisição de imagens tomográficas e biomicroscópicas. Documentação do fabricante o apresenta como um sistema “all-in-one” que pode integrar OCT 3D, câmera de fundo, angiografia (opcional), biometria e topografia, visando aumentar a eficiência do exame do segmento anterior ao posterior.",
+        "manual": "assets/manual/HOCT-1_1F.pdf"
+    },
+
+    "IC-100": {
+        "text": "O iCare IC100 é um tonômetro de rebote para medição de pressão intraocular (PIO). O método de rebote permite medir PIO rapidamente e sem anestésico, usando uma sonda leve (probe) que faz contato breve com a córnea; o manual descreve instruções de segurança, uso de sondas de uso único e manutenção básica (como troca de baterias e limpeza/troca da base da sonda).",
+        "manual": "assets/manual/IC-100.pdf"
+    },
+
+    "IC-200": {
+        "text": "O iCare ic200 é um tonômetro de rebote para medição de pressão intraocular (PIO), descrito como capaz de medir em paciente em decúbito dorsal (supino) e também em posição vertical (sentado/em pé). O manual explica o princípio do método de rebote e descreve instruções de uso, segurança e manutenção, incluindo orientações sobre sondas de uso único e cuidados para evitar contaminação.",
+        "manual": "assets/manual/IC-200.pdf"
+    },
+
+    "Icam": {
+        "text": "O iCam-100 é uma câmera de fundo não midriática (non-mydriatic fundus camera) destinada à captura de imagens coloridas do fundo de olho sem necessidade de dilatação farmacológica em muitos casos. O manual descreve orientações de uso, instalação e operação do equipamento, incluindo rotinas de captura e requisitos/precauções de segurança para operação em ambiente clínico.",
+        "manual": "assets/manual/Icam.pdf"
+    },
+
+    "Idra": {
+        "text": "O IDRA é um analisador de superfície ocular voltado à avaliação e acompanhamento do olho seco. A documentação descreve exames não invasivos e recursos de análise do filme lacrimal, incluindo medição/avaliação de parâmetros como a camada lipídica, tempo de ruptura não invasivo (NIBUT), altura do menisco lacrimal e meibografia, com relatórios para apoio à prática clínica.",
+        "manual": "assets/manual/Idra.pdf"
+    },
+
+    "iScan80": {
+        "text": "O iScan80 é um sistema de OCT (tomografia de coerência óptica) descrito como totalmente automatizado, com recursos de alinhamento/otimização de aquisição, orientando o paciente durante o exame e oferecendo um conjunto de varreduras para retina, nervo óptico e segmento anterior. A documentação do produto destaca velocidade de varredura de 80.000 A-scans por segundo e fluxo de aquisição simplificado, com relatórios e campo de visão ampliado em relação a gerações anteriores.",
+        "manual": "assets/manual/iScan80.pdf"
+    },
+
+    "iVue80": {
+        "text": "O iVue80 é um sistema de OCT para aplicações como retina, glaucoma e segmento anterior. A documentação técnica descreve velocidade de 80.000 A-scans por segundo, comprimento de onda em torno de 840 nm (±10 nm) e especificações de resolução/varredura e campo de visão para imagens en face e imagem infravermelha ao vivo, com relatórios e análises voltadas ao acompanhamento clínico.",
+        "manual": "assets/manual/iVue80.pdf"
+    },
+
+    "Lenstar-APS Pro": {
+        "text": "O Lenstar 900 com APS (Automated Positioning System) é um biômetro óptico para planejamento de cirurgia de catarata e cálculo de LIO, descrito como capaz de realizar biometria óptica rápida e precisa dos segmentos anterior e posterior do olho. A documentação do fabricante menciona que o APS utiliza rastreamento dinâmico do olho para facilitar a aquisição automatizada e precisa das medições.",
+        "manual": "assets/manual/Lenstar-APS Pro.pdf"
+    },
+
+    "MERLIN": {
+        "text": "O MERLIN (Volk) é um sistema cirúrgico de não contato para procedimentos vítreo-retinianos, descrito como um sistema de visualização não contato para uso em vitrectomia. A documentação menciona plataformas como Rotational Assembly (RA) e Condensing Lens Assembly (CLA), e o manual do sistema CLA descreve operação e instruções relacionadas à instalação/uso e cuidados como limpeza e esterilização dos componentes antes do uso cirúrgico.",
+        "manual": "assets/manual/MERLIN.pdf"
+    },
+
+    "MRQ SLT": {
+        "text": "O MR Q SLT (Meridian) é um sistema de laser oftalmológico que combina um laser Nd:YAG com um módulo de SLT (trabeculoplastia seletiva a laser), descrito como um sistema de duplo laser voltado ao tratamento do glaucoma de ângulo aberto (como terapia primária) e a procedimentos típicos de Nd:YAG, conforme documentação de produto e instruções de uso.",
+        "manual": "assets/manual/MRQ SLT.pdf"
+    },
+
+    "MRQ YAG": {
+        "text": "O MR Q (Meridian) é um laser Nd:YAG totalmente integrado a uma lâmpada de fenda com iluminação LED. Documentação do fabricante descreve o sistema como destinado a procedimentos como capsulotomia posterior, membranectomia pupilar e iridotomia, com seleção de parâmetros e operação descritas no manual do usuário.",
+        "manual": "assets/manual/MRQ YAG.pdf"
+    },
+
+    "Octopus-600": {
+        "text": "O Octopus 600 (Haag-Streit) é um perímetro para exame do campo visual central (30°), destinado ao exame, análise e registro do campo de visão — em especial da sensibilidade às diferenças de luminância e outras funções do olho humano. As instruções de uso descrevem o equipamento como um sistema autônomo (componentes de exame e controle integrados) com monitoramento automático de fixação para aumentar a confiabilidade dos resultados.",
+        "manual": "assets/manual/Octopus-600.pdf"
+    },
+
+    "Octopus-900": {
+        "text": "O Octopus 900 (Haag-Streit) é um perímetro de campo visual que opera com um PC externo e software (EyeSuite) via conexão Ethernet. As instruções de uso descrevem recursos de monitoramento do paciente para aumentar a confiabilidade do exame e destacam seu uso por profissionais clínicos e em pesquisa, com maior flexibilidade de configurações em comparação a sistemas totalmente autônomos.",
+        "manual": "assets/manual/Octopus-900.pdf"
+    },
+
+    "OS-1000": {
+        "text": "O OS-1000 (OS1000) é um equipamento de diagnóstico voltado à topografia corneana e à avaliação da superfície ocular/olho seco. Materiais do fabricante e de distribuidores descrevem que o sistema combina topografia com módulos de análise do filme lacrimal (ex.: avaliação da camada lipídica por interferometria), além de recursos de exame usados em protocolos de olho seco, com geração de relatórios clínicos.",
+        "manual": "assets/manual/OS-1000.pdf"
+    },
+
+    "PICTOR PRESTIGE": {
+        "text": "O Pictor Prestige é uma câmera portátil de fundo de olho (portable fundus camera) destinada à captura de imagens e vídeos do fundo ocular para documentação e avaliação clínica. O manual do fabricante descreve funções de operação do dispositivo e opções de conectividade/transferência de imagens (por exemplo, via conexão com computador e configuração de rede sem fio, conforme suportado pelo equipamento).",
+        "manual": "assets/manual/PICTOR PRESTIGE.pdf"
+    },
+
+    "Rosewood": {
+        "text": "O Rosewood é um sistema cirúrgico de facoemulsificação (phacoemulsification surgical equipment) para cirurgia de catarata. Materiais de fabricante/distribuidores descrevem o equipamento como uma plataforma com controle por software (PCS) e módulos de controle de fluídica e acessórios cirúrgicos para uso em procedimentos de catarata/refrativos.",
+        "manual": "assets/manual/Rosewood.pdf"
+    },
+
+    "SLT SELECTOR": {
+        "text": "O SLT Selector refere-se ao sistema LIGHTLas SeLecTor Deux (LightMed), um equipamento laser oftálmico que oferece modo SLT e modo YAG. Documentação regulatória descreve que o modo SLT utiliza laser Nd:YAG com pulsos Q-switched de frequência dobrada em 532 nm para uso em SLT (trabeculoplastia seletiva).",
+        "manual": "assets/manual/SLT SELECTOR.pdf"
+    },
+
+    "SLY-100": {
+        "text": "O SLY-100 é um \"vision tester\" (refrator/foróptero manual) para medição de refração, com especificações publicadas indicando faixas de medida para esférico, cilíndrico e eixo. Materiais do fabricante/distribuidor descrevem operação simples e uso de lentes auxiliares para suportar medições na rotina de refração.",
+        "manual": "assets/manual/SLY-100.pdf"
+    },
+
+    "Solix-FullRange": {
+        "text": "O SOLIX FullRange é um sistema de tomografia de coerência óptica (OCT) que também oferece OCT-angiografia (OCTA). A documentação do produto descreve o equipamento como uma plataforma \"FullRange\" para imagem do segmento anterior e posterior, com diferentes opções de aquisição e relatórios, incluindo exames de OCT e OCTA (AngioVue) conforme a configuração do sistema.",
+        "manual": "assets/manual/Solix-FullRange.pdf"
+    },
+
+    "Tonômetro de Aplanação KAT": {
+        "text": "O Keeler Applanation Tonometer (KAT) é indicado para medir a pressão intraocular (PIO) como auxílio no rastreio e diagnóstico do glaucoma. As instruções de uso descrevem o KAT como um acessório para lâmpadas de fenda do tipo “Tower Illumination”, podendo ser montado e utilizado com lâmpadas de fenda de vários fabricantes.",
+        "manual": "assets/manual/KAT.pdf"
+    },
+
+    "Tonômetro Sem Contato Pulsair": {
+        "text": "O tonômetro Pulsair (Keeler) é um tonômetro sem contato do tipo “sopro de ar”, destinado a medir a pressão intraocular (PIO) sem tocar a superfície do olho, para ajudar no rastreio e diagnóstico do glaucoma. As instruções descrevem a tonometria por impulso de ar como uma variante da tonometria de aplanação, em que uma porção da córnea é fletida por um estímulo mecânico e a força/pressão necessária se relaciona à PIO.",
+        "manual": "assets/manual/PULSAIR.pdf"
+    },
+
+    "TRC-50DXIA": {
+        "text": "O TRC-50DX é uma câmera retinográfica (retinal camera) destinada à captura de imagens do fundo de olho. O manual de instruções descreve procedimentos de operação, solução de problemas, manutenção e limpeza do equipamento.",
+        "manual": "assets/manual/TRC-50DXIA.pdf"
+    },
+
+    "TRC-NW400": {
+        "text": "O TRC-NW400 é uma câmera retinográfica não midriática (non-mydriatic retinal camera) usada para adquirir imagens da retina. Documentação de produto e manual descrevem recursos de assistência para aquisição (incluindo suporte a pupilas pequenas, com referência a 3,3 mm ou mais, dependendo de configuração), além de procedimentos de operação, manutenção e solução de problemas.",
+        "manual": "assets/manual/TRC-NW400.pdf"
+    },
+
+    "TRC-NW8F": {
+        "text": "O TRC-NW8F é uma câmera retinográfica não midriática destinada a capturar imagens da retina e do segmento anterior do olho, apresentando os dados ao profissional de saúde ocular, com ou sem o uso de midriático (conforme descrito no manual).",
+        "manual": "assets/manual/TRC-NW8F.pdf"
+    },
+
+    "VALEDA": {
+        "text": "O Valeda Light Delivery System é um sistema de fotobiomodulação para uso por profissionais, que utiliza luz não coerente emitida por LEDs em comprimentos de onda na faixa do âmbar, vermelho e infravermelho próximo, direcionada ao olho do paciente por uma área de feixe definida. Documentação regulatória descreve o sistema e seus parâmetros gerais de emissão/uso clínico conforme as indicações aprovadas.",
+        "manual": "assets/manual/VALEDA.pdf"
+    },
+    "VISTA VIEW": {
+        "text": "O VistaView (Volk) é uma câmera retiniana portátil (handheld retinal camera) destinada à captura de imagens do fundo de olho. As instruções de uso descrevem o fluxo de captura (imaging), incluindo modos de foco (assistido/manual) e ajustes como brilho durante a obtenção das imagens.",
+        "manual": "assets/manual/Vista View.pdf"
+    },
+
+    "VisuAll - Modelo ETS": {
+        "text": "O VisuALL (Olleyes) é um sistema de perimetria em realidade virtual (VR) para avaliação de campo visual, com modelos S e ETS. Materiais públicos do fabricante descrevem o produto como uma plataforma portátil de testes visuais, e um folheto comparativo apresenta as versões S e ETS como opções do mesmo ecossistema.",
+        "manual": "assets/manual/VisuAll ETS.pdf"
+    },
+
+    "VisuAll - Modelo S": {
+        "text": "O VisuALL S (Olleyes) é um perímetro em realidade virtual (VR) para testes de campo visual. Uma brochura do produto descreve o VisuALL S como um teste de campo visual em VR voltado ao monitoramento de sensibilidade retiniana, com benefícios de portabilidade e possibilidade de testar pacientes em diferentes posições.",
+        "manual": "assets/manual/VisuAll S.pdf"
+    },
+
+    "VT-10": {
+        "text": "O VT-10 (Topcon) é um vision tester (refrator/foróptero manual) usado para medir o poder de refração dos olhos e realizar exame de função binocular. O manual (PT) descreve precauções, transporte/instalação e operação do equipamento.",
+        "manual": "assets/manual/VT-10.pdf"
+    },
+
+    "YAG L PULSA 9000": {
+        "text": "O LPulsa SYL9000 é um laser oftalmológico Nd:YAG projetado para realizar procedimentos como capsulotomia posterior, membranectomia pupilar e iridotomia, conforme descrito no manual do operador/instruções de uso disponível em documentação regulatória.",
+        "manual": "assets/manual/YAG_SYL_PULSA_9000.PDF"
+    },
+
+
+    "ultimo":{
+        "text": "",
+        "manual": "assets/manual/asdfsafsdfsadfas.pdf"
+    }
+}
