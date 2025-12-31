@@ -4,14 +4,14 @@
     box-sizing: border-box;
 }
 
-@font-face{
-  font-family: "Opinion Pro ExtraCondensed Light";
-  src:
-    url("../fonts/opinion-pro-extra-condensed-light.otf") format("opentype"),
-    url("../fonts/opinion-pro-extra-condensed-light.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
+@font-face {
+    font-family: 'Opinion Pro ExtraCondensed Light';
+    src:
+      url('../fonts/Mint%20Type%20-%20Opinion%20Pro%20ExtraCondensed%20Light.otf') format('opentype'),
+      url('../fonts/Mint%20Type%20-%20Opinion%20Pro%20ExtraCondensed%20Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 
